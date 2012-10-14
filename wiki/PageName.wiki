@@ -6,6 +6,8 @@ Add your content here.
 
 [http://google.com Google]
 
+[NewPage my new page]
+
 
 = Details =
 
