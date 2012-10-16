@@ -49,4 +49,4 @@
   ##[http://habrahabr.ru/post/64997/  Канбан в IT (Kanban Development)]
   ##[http://en.wikipedia.org/wiki/Kanban_(development) Kanban]
 
-<br><br>Вернуться на [методология разработки]
+<br><br>Вернуться на [SoftwareDevelopmentMethodologies методологии разработки]
