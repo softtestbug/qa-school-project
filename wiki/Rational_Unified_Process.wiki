@@ -63,3 +63,5 @@ http://www.dpgrup.ru/i/RUP-process.png
 Методологии разработки ПО взяты из этого [http://www.dpgrup.ru/methodologies.htm источника].
 
 Еще одна страничка из нашего проекта [Kanban о Канбане]
+
+fkjgf [http://ru.wikipedia.org/wiki/Гибкая_методология_разработки kfgfj].
