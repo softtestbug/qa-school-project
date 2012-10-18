@@ -1,0 +1,22 @@
+#summary тест кейс Пайдыганов
+
+*Test case: Opening the Project*
+
+Precondition: internet should be launched
+
+||	||Steps||	Expected results||
+||1	||After page load	||Calendar should show the correct date, button “Enter” should be displayed||
+||2	||Click on “Enter” button	||Page “lucky number” should be loaded||
+
+*Test case: Page “lucky number”*
+
+Precondition: Page “lucky number” should be loaded
+
+||	||Steps||	Expected results||
+||1	||After page load	||Picture to be displayed||
+||2	||Input “full name”	||“Full name” should be filled correctly||
+||3	||Input “birthday” with mask “dd.mm.yy”	||“Birthday” should be filled correctly and calendar should show the correct date||
+||4	||Click on “calc date” button	||“Lucky number” should be counted||
+||5	||Click on “show date” button||	Current date should be displayed||
+||6	||Input “birthday” with mask “dd.mm.yyyy”||	“Birthday” should be filled correctly and calendar should show the correct date||
+||7	||Click on “calc date” button	||“Lucky number” should be counted||
