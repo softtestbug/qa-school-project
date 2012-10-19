@@ -1,4 +1,0 @@
-#summary page
-
-= Test Case 1 =
-
