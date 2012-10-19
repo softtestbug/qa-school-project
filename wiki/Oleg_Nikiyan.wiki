@@ -2,9 +2,9 @@
 
 = Test-cases =
 
-[wiki:https://docs.google.com/spreadsheet/ccc?key=0AkZafnPjXYbMdFp5c2ZjUG5YQmFwU0VUUGdHTWtmZUE]
+[https://docs.google.com/spreadsheet/ccc?key=0AkZafnPjXYbMdFp5c2ZjUG5YQmFwU0VUUGdHTWtmZUE Test-cases]
 
 
 = Bug-reports =
 
-[wiki:Oleg_Nikiyan/bug_reports]
+[https://docs.google.com/spreadsheet/ccc?key=0AkZafnPjXYbMdFp5c2ZjUG5YQmFwU0VUUGdHTWtmZUE Bug-reports]
