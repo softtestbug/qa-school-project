@@ -1,3 +1,5 @@
 #summary Personal page.
 
 == Komarchenko Alexey | Personal page ==
+
+[[http://code.google.com/p/qa-school-project/wiki/Komarchenko_Alexey/Contacts Contacts]]
