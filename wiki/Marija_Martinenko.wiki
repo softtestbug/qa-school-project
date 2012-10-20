@@ -9,3 +9,5 @@
 [https://docs.google.com/spreadsheet/ccc?key=0AhQiTg2aXmW7dGxtYk9oTjNNV1lMdTNyY1Z0RjdoaWc Test-case Enter]
 
 [https://docs.google.com/spreadsheet/ccc?key=0AhQiTg2aXmW7dEhxc3lCSWcybE0yN3J2Q1NlT2hvUEE Test-case Bild]
+
+[https://docs.google.com/spreadsheet/ccc?key=0AhQiTg2aXmW7dHNaMjM3MDlQZEl6MEhKbnZGWnpUakE#gid=0 Test-case Kalender2]
