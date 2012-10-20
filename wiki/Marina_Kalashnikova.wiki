@@ -2,6 +2,12 @@
 
 == HomeWork №2 ==
 
+----
+
 [https://docs.google.com/spreadsheet/ccc?key=0AjbC8pctEhzkdGdCY3lVY0lyeWpkLWdXcGd0YTl0TXc Test-cases]
 
 [https://docs.google.com/document/d/1AblQqSAI31pjEGGWUnS8uJ3ce5KxwuOPzTPH4VkZyDs/edit Bug-reports]
+
+== Contacts ==
+
+----
