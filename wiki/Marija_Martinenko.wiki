@@ -13,4 +13,4 @@
 
 [https://docs.google.com/spreadsheet/ccc?key=0AhQiTg2aXmW7dHNaMjM3MDlQZEl6MEhKbnZGWnpUakE#gid=0 Test-case Kalender in der Seite "Glueckliche Zahl"]
 
-[https://docs.google.com/spreadsheet/ccc?key=0AhQiTg2aXmW7dEpndUJDcWk1Y1pIdDlhYXRrVzUxQkE#gid=0 Test-case Geburtstag, Name, Datum, Glueckliche Zahl]
+[https://docs.google.com/spreadsheet/ccc?key=0AhQiTg2aXmW7dEpndUJDcWk1Y1pIdDlhYXRrVzUxQkE#gid=0 Test-case Geburtsdatum, Name, Datum, Glueckliche Zahl]
