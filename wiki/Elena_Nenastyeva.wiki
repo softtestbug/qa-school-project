@@ -1,4 +1,4 @@
-#summary die persönliche Webseite
+#summary die persönliche Seite
 
 = Introduction =
 
