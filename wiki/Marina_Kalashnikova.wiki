@@ -1,6 +1,6 @@
 #summary Personal page
 
-== HomeWork№2 ==
+== HomeWork #2 ==
 
 [https://docs.google.com/spreadsheet/ccc?key=0AjbC8pctEhzkdGdCY3lVY0lyeWpkLWdXcGd0YTl0TXc Test-cases]
 
