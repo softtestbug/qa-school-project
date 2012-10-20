@@ -5,7 +5,7 @@
 [https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTp1DUR7jDCuPqKmjUdKJbS34srbET9cxxA12eLOznY7NQ8mEIe e-mail] '''kalashnikova.marina.amm@gmail.com'''
 
 
-== HomeWork №2 ==
+== HomeWork№2 ==
 
 [https://docs.google.com/spreadsheet/ccc?key=0AjbC8pctEhzkdGdCY3lVY0lyeWpkLWdXcGd0YTl0TXc Test-cases]
 
