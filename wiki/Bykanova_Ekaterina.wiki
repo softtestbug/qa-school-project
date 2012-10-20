@@ -1,0 +1,6 @@
+#summary Personal page
+
+= Test-cases =
+[https://docs.google.com/spreadsheet/ccc?key=0ArgLPg3ScC_idEhMZW5fSHh0Ym9MU2ZIanpjLWV2NlE| Homework №2] 
+
+= Bug-reports =
