@@ -4,6 +4,11 @@
 
 ----
 
+=== Contacts: ===
+   * tel: +7-910-288-4454
+
+----
+
 === Homeworks: ===
    # *Homework #1:*
       * [http://code.google.com/p/qa-school-project/wiki/SoftDevMeth_V_Model Wiki-page]
