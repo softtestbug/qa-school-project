@@ -1,14 +1,18 @@
 #summary Personal Page  .
 
 = Welcome =
+
+_Где мы, чувак?! Кажется, это страна летучих мышей! © Fear and Loathing in Las Vegas_
 ----
 ==HW==
-*[https://docs.google.com/spreadsheet/ccc?key=0AqbgRFE9FqEcdDdoaUw2UTRTcm9ndHNFdkRPb0VFNWc Test Case]*
 
-*[https://docs.google.com/spreadsheet/ccc?key=0AqbgRFE9FqEcdFRKaXdKSDR4ZlNGYllyY0FvU1JHbmc Bug Report]*
+→ *[https://docs.google.com/spreadsheet/ccc?key=0AqbgRFE9FqEcdDdoaUw2UTRTcm9ndHNFdkRPb0VFNWc Test Case]* 
+
+→ *[https://docs.google.com/spreadsheet/ccc?key=0AqbgRFE9FqEcdFRKaXdKSDR4ZlNGYllyY0FvU1JHbmc Bug Report]*
 
 ----
-||ContactMe|| <center>Lalala</center>||
+==Contact me==
+
 || http://cs407626.userapi.com/v407626798/4b53/HiO-t9_iGd0.jpg  *+79081401980*<br>http://cs407626.userapi.com/v407626798/4b99/vyiCQAcol8c.jpg *Cara_angelo*<br>http://cs407626.userapi.com/v407626798/4af1/futH-b5hI60.jpg *Rainbowvincent@gmail.com*<br>[http://vk.com/perfect_rainbow http://cs407626.userapi.com/v407626798/4ba7/OuNmTk_ZDyA.jpg][http://vk.com/perfect_rainbow vk.com] ||http://media-cache-ec4.pinterest.com/upload/25332816624628812_afecT7zL_c.jpg||
 
 ----
