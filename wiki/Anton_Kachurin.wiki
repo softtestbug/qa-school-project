@@ -2,4 +2,4 @@
 ----
  ==[https://docs.google.com/spreadsheet/ccc?key=0AmkPAy64UF-rdHpfZUdWb3ptVmhHRHRZd0EzU2ZHa3c Test cases]==
 ----
- ==Bug reports==
+ ==[https://docs.google.com/spreadsheet/ccc?key=0AmkPAy64UF-rdDNRZlN1WllFZVVOcGE2amkzSGR6N2c Bug reports]==
