@@ -1,15 +1,3 @@
 #summary Personal Page.
 
 [https://docs.google.com/document/d/1EgDuH-LcEnWxYHzXDyZwt4BTIaEWSk6A-BlywaqjZco/edit Homework#2]
-
-= Introduction =
-
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
