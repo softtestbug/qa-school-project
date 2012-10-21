@@ -2,9 +2,9 @@
 
 = Test-cases =
 
-[https://docs.google.com/spreadsheet/ccc?key=0AkZafnPjXYbMdFp5c2ZjUG5YQmFwU0VUUGdHTWtmZUE Test-cases]
+[https://docs.google.com/spreadsheet/ccc?key=0AkZafnPjXYbMdFp5c2ZjUG5YQmFwU0VUUGdHTWtmZUE Test-cases] - can be checked.
 
 
 = Bug-reports =
 
-[https://docs.google.com/spreadsheet/ccc?key=0AkZafnPjXYbMdFp5c2ZjUG5YQmFwU0VUUGdHTWtmZUE Bug-reports]
+[https://docs.google.com/spreadsheet/ccc?key=0AkZafnPjXYbMdFp5c2ZjUG5YQmFwU0VUUGdHTWtmZUE Bug-reports] - will be updated today at 7 PM.
