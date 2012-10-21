@@ -1,3 +1,2 @@
-Personal page.
-
+#summary Personal page.
 [https://docs.google.com/spreadsheet/ccc?key=0AgH66_qFgXxZdGZneDRyQ0tMTVVCOGRTVVc3OGpnakE homework 2]
