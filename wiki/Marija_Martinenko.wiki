@@ -18,3 +18,5 @@
 == Bugs: ==  
 
 [http://code.google.com/p/qa-school-project/issues/detail?id=2&thanks=2&ts=1350840706 1.Kalender stoert der Suche]
+
+[http://code.google.com/p/qa-school-project/issues/detail?id=3&thanks=3&ts=1350841207 2. Kalender zeigt nicht nur heutiges Datum]
