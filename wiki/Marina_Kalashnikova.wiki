@@ -1,6 +1,6 @@
 #summary Personal page
 
-== Homework #2 ==
+== [http://t-uni.dyndns.org/trac/T-Uni/wiki/homeworks/homework2 Homework #2] ==
 
 ----
 
