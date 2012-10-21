@@ -1,5 +1,6 @@
 #summary Personal page
 
+=Oh my god=
 ----
 == Contacts: ==
    * tel: +7-951-872-9251
