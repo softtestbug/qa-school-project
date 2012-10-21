@@ -1,5 +1,5 @@
 =Homework=
-
- == Test cases==
 ----
- == Bugs==
+ ==[https://docs.google.com/spreadsheet/ccc?key=0AmkPAy64UF-rdHpfZUdWb3ptVmhHRHRZd0EzU2ZHa3c Test cases]==
+----
+ ==Bug reports==
