@@ -4,6 +4,7 @@
 = Hausaufgabe № 2 =
 
 ===Testfälle:==
+
 [https://docs.google.com/spreadsheet/ccc?key=0AoZZpmgP2mDvdDN5dTRpemJjZGlibWJQVmZ3VDlma0E Startseite des Projekts "Glückszahl"]
 
 [https://docs.google.com/spreadsheet/ccc?key=0AoZZpmgP2mDvdE1UTjM0NUhrNHRCVUN1MU5MOWotRFE Das Bild]
