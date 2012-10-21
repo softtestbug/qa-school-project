@@ -21,4 +21,4 @@
 
 [http://code.google.com/p/qa-school-project/issues/detail?id=3&thanks=3&ts=1350841207 2. Kalender zeigt nicht nur heutiges Datum]
 
-[http://code.google.com/p/qa-school-project/issues/detail?id=4&thanks=4&ts=1350841755 Das Aufklappenfenster]
+[http://code.google.com/p/qa-school-project/issues/detail?id=4&thanks=4&ts=1350841755 3. Das Aufklappenfenster]
