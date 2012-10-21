@@ -1,7 +1,23 @@
 #summary die persönliche Seite
 
-= die Hausaufgabe № 2: =
-[https://docs.google.com/spreadsheet/ccc?key=0AoZZpmgP2mDvdDN5dTRpemJjZGlibWJQVmZ3VDlma0E Testfall № 1]
+
+= Hausaufgabe № 2 =
+
+[https://docs.google.com/spreadsheet/ccc?key=0AoZZpmgP2mDvdDN5dTRpemJjZGlibWJQVmZ3VDlma0E Startseite des Projekts "Glückszahl"]
+
+[https://docs.google.com/spreadsheet/ccc?key=0AoZZpmgP2mDvdE1UTjM0NUhrNHRCVUN1MU5MOWotRFE Das Bild]
+
+[https://docs.google.com/spreadsheet/ccc?key=0AoZZpmgP2mDvdEdWSjNoYmFIc3BxOF9NWmYxenRqNGc Der Kalender]
+
+[https://docs.google.com/spreadsheet/ccc?key=0AoZZpmgP2mDvdFp5NVN5ZWphczhSdjZsWkZoS3VoU2c Der Name]
+
+[https://docs.google.com/spreadsheet/ccc?key=0AoZZpmgP2mDvdEo5OVFmdmozVWs2NU5fVEFKeXJXblE Das Geburtsdatum]
+
+[https://docs.google.com/spreadsheet/ccc?key=0AoZZpmgP2mDvdDVSQklXRVF6TlB5WVVsTDZOSjB2T1E Das aktuelle Datum]
+
+[https://docs.google.com/spreadsheet/ccc?key=0AoZZpmgP2mDvdFdSbkZJLXZlSGdDaUVuNEFoNUVHVlE Die Glückszahl]
+
+[https://docs.google.com/spreadsheet/ccc?key=0AoZZpmgP2mDvdEdWSjNoYmFIc3BxOF9NWmYxenRqNGc]
 
 
 
