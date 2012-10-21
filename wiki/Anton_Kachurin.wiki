@@ -1,2 +1,2 @@
 = Root page =
-[Test_case_1]
+[Anton_Kachurin\Test_case_1]
