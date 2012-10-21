@@ -3,3 +3,4 @@
  ==[https://docs.google.com/spreadsheet/ccc?key=0AmkPAy64UF-rdHpfZUdWb3ptVmhHRHRZd0EzU2ZHa3c Test cases]==
 ----
  ==[https://docs.google.com/spreadsheet/ccc?key=0AmkPAy64UF-rdDNRZlN1WllFZVVOcGE2amkzSGR6N2c Bug reports]==
+with [https://docs.google.com/folder/d/0B2kPAy64UF-raFhySS04Mk9CZkE/edit screenshots]
