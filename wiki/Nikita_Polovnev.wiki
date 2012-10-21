@@ -1,2 +1,4 @@
 #summary Personal page.
 [https://docs.google.com/spreadsheet/ccc?key=0AgH66_qFgXxZdGZneDRyQ0tMTVVCOGRTVVc3OGpnakE homework 2]
+
+[https://docs.google.com/document/d/1SLE2tIlQMhoirQBSRykFG7_7q1OR3DKwjtEOB6n5rOk/edit Bug report]
