@@ -1,13 +1,13 @@
 #summary Personal Page  .
 
 = Welcome =
----
+----
 ==HW==
 *[https://docs.google.com/spreadsheet/ccc?key=0AqbgRFE9FqEcdDdoaUw2UTRTcm9ndHNFdkRPb0VFNWc Test Case]*
 
 *[https://docs.google.com/spreadsheet/ccc?key=0AqbgRFE9FqEcdFRKaXdKSDR4ZlNGYllyY0FvU1JHbmc Bug Report]*
 
----
+----
 == Contact Me ==
 
 http://cs407626.userapi.com/v407626798/4b53/HiO-t9_iGd0.jpg  *+79081401980*
@@ -18,6 +18,6 @@ http://cs407626.userapi.com/v407626798/4af1/futH-b5hI60.jpg *Rainbowvincent@gmai
 
 [http://vk.com/perfect_rainbow http://cs407626.userapi.com/v407626798/4ba7/OuNmTk_ZDyA.jpg][http://vk.com/perfect_rainbow vk.com]
 
----
+----
 
 http://media-cache-ec4.pinterest.com/upload/25332816624628812_afecT7zL_c.jpg
