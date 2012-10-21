@@ -1,5 +1,13 @@
 #summary Personal page
 
-*Homeworks:*
+----
+== Contacts: ==
+   * tel: +7-951-872-9251
+----
+==Homeworks:==
 
-2) [https://docs.google.com/spreadsheet/ccc?key=0AqAa3tpZrxEidDFGSHU5bkZ6NlJHRkVXaHV5a2dlcHc#gid=0 test_case]
+
+  # first Homework:
+    * [http://code.google.com/p/qa-school-project/wiki/Agile_software_development click!]
+  # second Homework:
+    * [https://docs.google.com/spreadsheet/ccc?key=0AqAa3tpZrxEidDFGSHU5bkZ6NlJHRkVXaHV5a2dlcHc#gid=0 test_case]
