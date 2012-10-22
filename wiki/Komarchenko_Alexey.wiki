@@ -14,7 +14,7 @@
       * [http://code.google.com/p/qa-school-project/wiki/SoftDevMeth_V_Model Wiki-page]
    # *Homework #2:*
       * [http://t-uni.dyndns.org/trac/T-Uni/wiki/homeworks/homework2 Task]
-      * [https://docs.google.com/spreadsheet/ccc?key=0Ar_38nKFySGodDJ3SFVDWEZET196bkRVdlRjejUzTmc Test cases] (waiting for checking!!!)
+      * [https://docs.google.com/spreadsheet/ccc?key=0Ar_38nKFySGodDJ3SFVDWEZET196bkRVdlRjejUzTmc Test cases] (commented by me at the 17:40_22_October)
       * [https://docs.google.com/document/d/1YPHwz7mZDncv2gTjBsIf1cehrTpJSy4_NZKNKKT1Bus/edit Bug reports] (waiting for checking!!!)
    # *Homework #3:*
       * [http://t-uni.dyndns.org/trac/T-Uni/wiki/user_stories2 Task]
