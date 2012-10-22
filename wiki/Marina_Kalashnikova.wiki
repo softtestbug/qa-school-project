@@ -17,7 +17,7 @@
 
  * *[https://docs.google.com/spreadsheet/ccc?key=0AjbC8pctEhzkdG5VYUp3Z2c0cENNLW81RlA4TEdWQ1E Test-cases]*
 
- * *[ Bug-reports]*
+ * *[https://docs.google.com/document/d/1UDefeuow0tU--fTmag3wmMgzDarr_DkCB9OViMq07cw/edit Bug-reports]*
 ----
 
 
