@@ -2,8 +2,9 @@
 
 ===Welcome to HELL!===
 -------------------
-[https://docs.google.com/spreadsheet/ccc?key=0ArOs58O1S_A2dF9aOVlzS1d1UV9rYzM1MmlXWWlBWFE HomeWork2_TestCases]
--------------------
+[https://docs.google.com/spreadsheet/ccc?key=0ArOs58O1S_A2dF9aOVlzS1d1UV9rYzM1MmlXWWlBWFE HomeWork2_TestCases]  &   
 [https://docs.google.com/spreadsheet/ccc?key=0ArOs58O1S_A2dFB6OU5HemhoU01jczJHcUM2aXh1N0E HomeWork2_BugReports]
+------------------
+[https://docs.google.com/spreadsheet/ccc?key=0ArOs58O1S_A2dDkxM2V6VUlDR1oxX3hsUjEzdXJTY0E HomeWork3_Postcards]
 ------------------
 http://yakto.ru/wp-content/uploads/bag.gif
