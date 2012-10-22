@@ -21,6 +21,6 @@
       * [http://t-uni.dyndns.org:9080/postcard/ Project] 
       * [https://docs.google.com/document/d/1tVVS7vo4NGKpNOST6vkjct3wZrWm59DTltExrlNRV2A/edit Specifications]
       * [https://docs.google.com/spreadsheet/ccc?key=0Ar_38nKFySGodG9EZlZlVlR5Vi1hYVFqVkxUeXhBRFE Test cases]
-      * [https://docs.google.com/document/d/1ARosfhXOIz6BWcD77IRtRt8sI9rY--0ZTYcAXXPRj9g/edit Bug reports]
+      * [https://docs.google.com/spreadsheet/ccc?key=0ArOs58O1S_A2dFNhbmw0T1VZckJoMGU4dlFCTDkyUWc#gid=0 Bug reports]
 
 ----
