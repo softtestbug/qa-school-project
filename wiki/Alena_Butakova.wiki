@@ -4,6 +4,15 @@
 
 _Где мы, чувак?! Кажется, это страна летучих мышей! © Fear and Loathing in Las Vegas_
 ----
+==HW 3==
+
+http://cs407726.userapi.com/v407726798/54f6/zaycZWCCXLA.jpg *[ Questions]*
+
+http://cs407726.userapi.com/v407726798/54ef/o3eOawZuleg.jpg *[ Test Case]* 
+
+http://cs407726.userapi.com/v407726798/54f6/zaycZWCCXLA.jpg *[ Bug Report]*
+
+----
 ==HW 2==
 
 http://cs407726.userapi.com/v407726798/54ef/o3eOawZuleg.jpg *[https://docs.google.com/spreadsheet/ccc?key=0AqbgRFE9FqEcdDdoaUw2UTRTcm9ndHNFdkRPb0VFNWc Test Case]* 
