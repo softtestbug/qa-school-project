@@ -1,1 +1,4 @@
 #summary Page of the second group
+-----------------
+[https://docs.google.com/spreadsheet/ccc?key=0ArOs58O1S_A2dFNhbmw0T1VZckJoMGU4dlFCTDkyUWc Our bug reports]
+-----------------
