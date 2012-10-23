@@ -9,7 +9,9 @@
 
 
 [https://docs.google.com/spreadsheet/ccc?key=0AmeWjdsL-IiRdGZMNU9lRmZjUk00VUZUMXlaUG1wV1E#gid=0 Поздравительные открытки]
-= Details =
+
+[https://docs.google.com/spreadsheet/ccc?key=0AjbC8pctEhzkdGV2MEhhaWlteFFkUmRTM1UtaC1VS2c#gid=0
+= Details = наша команда-баги]
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
