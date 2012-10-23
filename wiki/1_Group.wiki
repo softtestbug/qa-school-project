@@ -1,5 +1,13 @@
 #summary Homework 3, bug-reports from Group 1.
 
-= Homework 3, bug-reports from Group 1 =
+= Homework 3, Group 1 =
+
+== Tested application ==
+[http://t-uni.dyndns.org:9080/postcard/ Is here.]
+
+== Requirements for application ==
+[http://t-uni.dyndns.org/trac/T-Uni/wiki/user_stories2 Are here.]
+
+== Bug-reports from Group 1 ==
 
 [https://docs.google.com/spreadsheet/ccc?key=0AkZafnPjXYbMdF9RTEtxdEdoT2tXMFJteXhQSWctRUE Bug-reports for Homework No.3]
