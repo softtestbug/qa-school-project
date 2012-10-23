@@ -9,7 +9,7 @@
 *[https://docs.google.com/spreadsheet/ccc?key=0AlTkU0p2XG0OdFJVUWVKQV9YNGk4MHRjZUU4NkxKNkE#gid=0 Greeting cards. Test cases (homework 3)]*
 
 
-*[https://docs.google.com/spreadsheet/ccc?key=0ArOs58O1S_A2dFNhbmw0T1VZckJoMGU4dlFCTDkyUWc#gid=0 Group2(Greeting cards). Bug report (homework 3)]*
+*[https://docs.google.com/spreadsheet/ccc?key=0ArOs58O1S_A2dFNhbmw0T1VZckJoMGU4dlFCTDkyUWc#gid=0 Group2. Greeting cards. Bug report (homework 3)]*
 
 ----
 
