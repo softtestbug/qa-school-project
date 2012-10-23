@@ -11,7 +11,9 @@
 [https://docs.google.com/spreadsheet/ccc?key=0AmeWjdsL-IiRdGZMNU9lRmZjUk00VUZUMXlaUG1wV1E#gid=0 Поздравительные открытки]
 
 [https://docs.google.com/spreadsheet/ccc?key=0AjbC8pctEhzkdGV2MEhhaWlteFFkUmRTM1UtaC1VS2c#gid=0
-= Details = наша команда-баги]
+ наша команда-баги
+
+[https://docs.google.com/document/d/1Hspr95i1HBatHiisWPApOBZ3ARyGVmIFcB2QfESzlUw/edit Письмо к заказчику]
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
