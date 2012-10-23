@@ -1,3 +1,5 @@
-#summary page of the first group.
+#summary Homework 3, bug-reports from Group 1.
 
-[https://docs.google.com/spreadsheet/ccc?key=0AkZafnPjXYbMdF9RTEtxdEdoT2tXMFJteXhQSWctRUE#gid=0 Bug-reports for Homework No.2]
+= Homework 3, bug-reports from Group 1 =
+
+[https://docs.google.com/spreadsheet/ccc?key=0AkZafnPjXYbMdF9RTEtxdEdoT2tXMFJteXhQSWctRUE Bug-reports for Homework No.3]
