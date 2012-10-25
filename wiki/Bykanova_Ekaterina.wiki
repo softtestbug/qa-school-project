@@ -5,3 +5,11 @@
 
 = Bug-reports =
 [https://docs.google.com/spreadsheet/ccc?key=0ArgLPg3ScC_idHN1RDZ4bnJiVzRPYTc5a0xVYTd6eHc Homework №2]
+
+----
+
+= Test-cases =
+[https://docs.google.com/spreadsheet/ccc?key=0ArgLPg3ScC_idEpXN2FYTzZsWWlOMFNPRWtWODlIc0E Homework №3]
+
+= Bug-reports =
+[https://docs.google.com/spreadsheet/ccc?key=0AkZafnPjXYbMdF9RTEtxdEdoT2tXMFJteXhQSWctRUE Homework №3]
