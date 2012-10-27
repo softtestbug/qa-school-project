@@ -15,6 +15,8 @@
 
 [https://docs.google.com/document/d/1Hspr95i1HBatHiisWPApOBZ3ARyGVmIFcB2QfESzlUw/edit Письмо к заказчику]
 
+=Обновленная версия дом работы=
+
 [https://docs.google.com/spreadsheet/ccc?key=0AmeWjdsL-IiRdHRpZ2xpOGRWU2pyeG5pdGN6b1p0UGc#gid=0 Таблица для вычисления возможности отправки открытки с пустым полем] 
 
 [https://docs.google.com/spreadsheet/ccc?key=0AmeWjdsL-IiRdFE2LW9PdG0wRWlTTmJsOV9ZQWVuMVE#gid=0 таблица для проверки на ввод специальных символов]
