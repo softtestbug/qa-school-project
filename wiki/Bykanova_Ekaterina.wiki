@@ -13,3 +13,6 @@
 
 = Bug-reports =
 [https://docs.google.com/spreadsheet/ccc?key=0AkZafnPjXYbMdF9RTEtxdEdoT2tXMFJteXhQSWctRUE Homework №3]
+
+= Requirements =
+[https://docs.google.com/document/d/1YfWlDLXybUJHbDHoK0NhXhK2i59Oy6GND5r6ltdkY9Q/edit Homework №3]
