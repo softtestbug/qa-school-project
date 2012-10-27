@@ -2,3 +2,5 @@
 [https://docs.google.com/spreadsheet/ccc?key=0AgH66_qFgXxZdGZneDRyQ0tMTVVCOGRTVVc3OGpnakE homework 2]
 
 [https://docs.google.com/document/d/1SLE2tIlQMhoirQBSRykFG7_7q1OR3DKwjtEOB6n5rOk/edit Bug report]
+
+[https://docs.google.com/spreadsheet/ccc?key=0AgH66_qFgXxZdDNWXzUwekw1cWppeWN0WWp3ck4zdWc#gid=0 Test cases ( project "Greeting cards")]
