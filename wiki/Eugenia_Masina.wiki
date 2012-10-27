@@ -21,6 +21,8 @@
 
 [https://docs.google.com/spreadsheet/ccc?key=0AmeWjdsL-IiRdFNaeGE4T1o4V2hUd21OZ1EwM055X1E Тест-кейсы -исправленный вариант]
 
+[https://docs.google.com/document/d/1yE4vMqNKvqs4ns1qR3FFiP2YZWRvbmq8O8_Jf7-ksRQ/edit Письмо заказчику -исправленное]
+
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
