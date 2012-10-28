@@ -28,10 +28,4 @@
 ----
 
 
-== Contacts ==
-
-----
-
-http://www.ironmountain.com.ua/images/icn_phone.png *8-920-444-71-35*
-
-http://tobolsk.info/images/stories/food/vkontakte11.png  *[http://vk.com/bespokoinaya_marina Marina Kalashnikova]*
+== http://icanrc.ru/design/img/contacts_foot.png *[https://docs.google.com/spreadsheet/ccc?key=0AjbC8pctEhzkdDVTcWRvckM2MHBWblhUVXI1emJuSXc Contacts]* ==
