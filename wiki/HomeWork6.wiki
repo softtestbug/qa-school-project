@@ -1,0 +1,15 @@
+#summary HomeWork6
+
+= Домашнее задание №6 =
+
+1. Написать тест кейсы методом серого ящика по приложению Отправления Открыток. Использовать все пройденные запросы
+
+2. Записать баги, найденные методом серого ящика
+
+
+= Срок сдачи 4 ноября 2012 =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
