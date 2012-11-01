@@ -6,8 +6,14 @@
 [https://docs.google.com/spreadsheet/ccc?key=0AkZafnPjXYbMdFp5c2ZjUG5YQmFwU0VUUGdHTWtmZUE Bug-reports].
 
 ----
-
 = Homework 3 =
 [https://docs.google.com/spreadsheet/ccc?key=0AkZafnPjXYbMdF9RTEtxdEdoT2tXMFJteXhQSWctRUE Homework 3, Bug-reports from Group 1]
 
 [https://docs.google.com/spreadsheet/ccc?key=0AkZafnPjXYbMdF91VEFMZ1VDbnc2amRYSm8wWHB3Mmc Test-cases]
+
+----
+= Homework 4 =
+[https://docs.google.com/document/d/1BmbSjcDxL42u5O_DUHvylbzAMnqiS-n6QrBHileqhQk/edit M. Kalashnikova's Decision Table Analysis]
+----
+= Homework 5 =
+[https://docs.google.com/document/d/1JqRZqPQDgvqTfXA6r110o56POYFneYooVR_Un-4l21I/edit SQL-queries for employee database]
