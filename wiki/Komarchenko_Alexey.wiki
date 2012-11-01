@@ -27,5 +27,6 @@
    # *Homework #4:*
       * [https://docs.google.com/spreadsheet/ccc?key=0Ar_38nKFySGodDFhOVFPVV9NRVZpcnprRHczejJEUFE#gid=1 Dicision table (for test-cases of HW3)]
    # *Homework #5 (from 29.10.12)*
+      * [http://code.google.com/p/qa-school-project/wiki/HomeWork4 Task]
       * [https://docs.google.com/file/d/0B7_38nKFySGoSzFaajJMSUczbW8/edit Sript (Employees BD)]
 ----
