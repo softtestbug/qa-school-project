@@ -16,3 +16,8 @@
 
 = Requirements =
 [https://docs.google.com/document/d/1YfWlDLXybUJHbDHoK0NhXhK2i59Oy6GND5r6ltdkY9Q/edit Homework №3]
+
+----
+
+= Scripts = 
+[https://docs.google.com/document/d/1i9PX4JurE1XxJyOhB4qCh5CO10vovph89fjl5l3T-5I/edit Homework №5]
