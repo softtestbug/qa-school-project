@@ -37,4 +37,4 @@
 
 == http://icanrc.ru/design/img/contacts_foot.png *[https://docs.google.com/spreadsheet/ccc?key=0AjbC8pctEhzkdDVTcWRvckM2MHBWblhUVXI1emJuSXc Contacts]* ==
 
-_Данные открыты всем участникам QA-group_
+_Данные открыты всем участникам QA-school-project_
