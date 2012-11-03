@@ -16,7 +16,7 @@
 
 [https://docs.google.com/spreadsheet/ccc?key=0AhQiTg2aXmW7dEpndUJDcWk1Y1pIdDlhYXRrVzUxQkE#gid=0 Test-case Geburtsdatum, Name, Datum, Glueckliche Zahl]
 
-== Bugs: ==  
+=== Bugs: ===
 
 
 [http://code.google.com/p/qa-school-project/issues/detail?id=3&thanks=3&ts=1350841207 1. Kalender zeigt nicht nur heutiges Datum]
@@ -30,5 +30,14 @@
 [https://docs.google.com/spreadsheet/ccc?key=0AhQiTg2aXmW7dGpESDJad2lKYW85YU93WGZzWDNndkE#gid=0 die 2. Seite]
 
 [https://docs.google.com/document/d/1Iutn8vMjeCO_aTWkxYHWVvM2KKn-thw9iPz7vdGbMC4/edit Präzisierung]
+
+=== Bugs ===
+
+[http://code.google.com/p/qa-school-project/issues/detail?id=45 1]
+[http://code.google.com/p/qa-school-project/issues/detail?id=44 2]
+[http://code.google.com/p/qa-school-project/issues/detail?id=43 3]
+[http://code.google.com/p/qa-school-project/issues/detail?id=42 4]
+[http://code.google.com/p/qa-school-project/issues/detail?id=41 5]
+
 
 == die 4. Hausaufgabe ==
