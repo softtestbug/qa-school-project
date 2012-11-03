@@ -41,6 +41,14 @@
 
 ----
 
+== Homework No.6 ==
+
+----
+ * *[https://docs.google.com/spreadsheet/ccc?key=0AjbC8pctEhzkdG5XOC05bkktbENLRnBmQWh2Ym5Yd2c Test-cases]*
+ * *[https://docs.google.com/document/d/19moCS4T-cvhVyAgGPXTitxQhqhVpCx8URlrcdSq11mY/edit Bug-reports]*
+
+----
+
 == http://icanrc.ru/design/img/contacts_foot.png *[https://docs.google.com/spreadsheet/ccc?key=0AjbC8pctEhzkdDVTcWRvckM2MHBWblhUVXI1emJuSXc Contacts]* ==
 
 _Данные открыты всем участникам QA-school-project_
