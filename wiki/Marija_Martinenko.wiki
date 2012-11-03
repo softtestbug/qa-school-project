@@ -1,4 +1,4 @@
-#summary die persoenliche Seite.
+#summary die persönliche Seite.
 
 = das Inhaltsverzeichnis =
 
