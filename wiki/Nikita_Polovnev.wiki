@@ -6,3 +6,5 @@
 [https://docs.google.com/spreadsheet/ccc?key=0AgH66_qFgXxZdDNWXzUwekw1cWppeWN0WWp3ck4zdWc#gid=0 Test cases ( project "Greeting cards")]
 
 [https://docs.google.com/document/d/1UReLjp1S_bPu34citQVkVL3zM7-3ZG-eb1lyp8S3VKQ/edit SQL-queries]
+
+[https://docs.google.com/document/d/1zrsywsKOU0M_y-GO4zEBOg_2QEajX-f1H1H4EK6AYWg/edit SQL-queries 2]
