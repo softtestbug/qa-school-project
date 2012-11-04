@@ -15,7 +15,7 @@
 [https://docs.google.com/document/d/1JqRZqPQDgvqTfXA6r110o56POYFneYooVR_Un-4l21I/edit SQL-queries for employee database]
 ----
 == Homework 6 ==
-  # [https://docs.google.com/document/d/14CzaCEfwRHEZtnZtHnoQ705RookJ0Bc51keoEcSh5Sk/edit SQL-queries 2.0]
+[https://docs.google.com/document/d/14CzaCEfwRHEZtnZtHnoQ705RookJ0Bc51keoEcSh5Sk/edit SQL-queries 2.0]
 Grey-box Testing
-  # [Test-cases]
-  # [Bug-reports]
+  # [https://docs.google.com/spreadsheet/ccc?key=0AkZafnPjXYbMdHhQQXppTV9jN2EyTDE4eGFKbzRkMkE&rm=full#gid=0 Test-cases]
+  # [https://docs.google.com/spreadsheet/ccc?key=0AkZafnPjXYbMdHRsRzVxRmN4ejhhc3EwR214WWRNb3c#gid=0 Bug-reports]
