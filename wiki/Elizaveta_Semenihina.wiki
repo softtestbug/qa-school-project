@@ -12,8 +12,10 @@
 *
 [https://docs.google.com/document/d/1qt-MToT-q5KBh210pSRPXP8r6dAummaRnRCKRdeUw1E/edit HomeWork_6_MySQl]
 
-HomeWork_6_TestCases
+*
+[https://docs.google.com/spreadsheet/ccc?key=0ArOs58O1S_A2dEhhRkNONDQ2R09oVE04ekl4OVNSRXc HomeWork_6_TestCases]
 
-HomeWork_6_BugReports
+*
+[https://docs.google.com/spreadsheet/ccc?key=0ArOs58O1S_A2dHVCVW9Td3hLVDdBemp2UUMwa096MXc HomeWork_6_BugReports]
 ------------------
 http://yakto.ru/wp-content/uploads/bag.gif
