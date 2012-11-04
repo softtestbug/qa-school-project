@@ -11,5 +11,9 @@
 ------------------
 *
 [https://docs.google.com/document/d/1qt-MToT-q5KBh210pSRPXP8r6dAummaRnRCKRdeUw1E/edit HomeWork_6_MySQl]
+
+HomeWork_6_TestCases
+
+HomeWork_6_BugReports
 ------------------
 http://yakto.ru/wp-content/uploads/bag.gif
