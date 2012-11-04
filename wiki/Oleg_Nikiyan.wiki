@@ -13,3 +13,6 @@
 ----
 == Homework 5 ==
 [https://docs.google.com/document/d/1JqRZqPQDgvqTfXA6r110o56POYFneYooVR_Un-4l21I/edit SQL-queries for employee database]
+----
+== Homework 6 ==
+[https://docs.google.com/document/d/14CzaCEfwRHEZtnZtHnoQ705RookJ0Bc51keoEcSh5Sk/edit SQL-queries 2.0]
