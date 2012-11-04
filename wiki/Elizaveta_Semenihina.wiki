@@ -7,6 +7,9 @@
 ------------------
 [https://docs.google.com/spreadsheet/ccc?key=0ArOs58O1S_A2dDkxM2V6VUlDR1oxX3hsUjEzdXJTY0E HomeWork3_TestCases] &  [https://docs.google.com/spreadsheet/ccc?key=0ArOs58O1S_A2dE1xUUlsU29TVXp6bkhzSDhxUGFWSFE HomeWork3_TestCases(new design)]
 ------------------
-*[https://docs.google.com/document/d/19ydQmKagA6X2vnpVOYYXjdhyaqTsGDoCdQAV3CgZ3HY/edit HomeWork_5_MySQl]
+[https://docs.google.com/document/d/19ydQmKagA6X2vnpVOYYXjdhyaqTsGDoCdQAV3CgZ3HY/edit HomeWork_5_MySQl]
+------------------
+*
+[https://docs.google.com/document/d/1qt-MToT-q5KBh210pSRPXP8r6dAummaRnRCKRdeUw1E/edit HomeWork_6_MySQl]
 ------------------
 http://yakto.ru/wp-content/uploads/bag.gif
