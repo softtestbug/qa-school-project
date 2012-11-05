@@ -21,3 +21,11 @@
 
 = Scripts = 
 [https://docs.google.com/document/d/1i9PX4JurE1XxJyOhB4qCh5CO10vovph89fjl5l3T-5I/edit Homework №5]
+
+----
+
+= Grey-box Test-cases =
+[https://docs.google.com/spreadsheet/ccc?key=0ArgLPg3ScC_idEVabVFYT09aQWZPLXVCaFh6ckJpZ0E test-cases]
+
+= Grey-box bug-reports =
+[https://docs.google.com/spreadsheet/ccc?key=0ArgLPg3ScC_idEhmbFpmdWhlWlpRdUh2WXAtbmItUWc bug-reports]
