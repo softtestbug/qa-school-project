@@ -17,3 +17,4 @@
     * [https://docs.google.com/spreadsheet/ccc?key=0AqAa3tpZrxEidGlXNVJBZkRQTGxaTGlUQ013Tl9LZHc test_case]
   # fifth/ sixth Homework:
     * [https://docs.google.com/document/d/1MrLuQNr4wqKxfynr0TOxZnmb10rJJKi1L0dtSTx-Xuw/edit sql_query]
+[https://docs.google.com/spreadsheet/ccc?key=0AqAa3tpZrxEidGlnX28yNkNxc0hadFY3cGpGZ2NyM2c test_case]
