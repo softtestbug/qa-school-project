@@ -29,7 +29,7 @@
    # *Homework #5 (from 29.10.12)*
       * [http://code.google.com/p/qa-school-project/wiki/HomeWork4 Task]
       * [https://docs.google.com/file/d/0B7_38nKFySGoSzFaajJMSUczbW8/edit Script (Employees BD)]
-   # *Homework #6:*
+   # *Homework #6 (from 02.11.12):*
       * [http://code.google.com/p/qa-school-project/wiki/HomeWork6 Task]
       * [http://t-uni.dyndns.org:9080/postcard/ Project]  
       * [https://docs.google.com/spreadsheet/ccc?key=0Ar_38nKFySGodHJZbjhtaGd5VWxzZ1VFUUVfNGU0VHc#gid=0 Test cases]
