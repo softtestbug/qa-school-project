@@ -15,6 +15,10 @@
 *[https://docs.google.com/document/d/1ptIWu26TZ9E9zS-p_j5iWeQC9M6Gs-tkmHiIniYzosA/edit Questions to the customer (Greeting cards)]*
 
 *[https://docs.google.com/folder/d/0B0ZafnPjXYbMb2ZZd0xEb0J0VUE/edit?docId=1OQL3HqcfgT3tORzfzteB9_pr5a9sqBLUBJ3l8dsDKjY MySQL (homework5)]*
+
+*[https://docs.google.com/spreadsheet/ccc?key=0AlTkU0p2XG0OdFJVUWVKQV9YNGk4MHRjZUU4NkxKNkE#gid=1 Postcard. Grey box. Tets cases (homework 6)]*
+
+*[https://docs.google.com/spreadsheet/ccc?key=0AlTkU0p2XG0OdFpEeGpXcmdfMnBVQUVaZ1FydUp5ekE#gid=0 Postcard. Grey box. Bug report (homework 6)]*
 ----
 
 
