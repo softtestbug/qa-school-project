@@ -29,9 +29,10 @@
    # *Homework #5 (from 29.10.12)*
       * [http://code.google.com/p/qa-school-project/wiki/HomeWork4 Task]
       * [https://docs.google.com/file/d/0B7_38nKFySGoSzFaajJMSUczbW8/edit Script (Employees BD)]
-   # *Homework #6 (from 02.11.12) UPDATED!:*
+   # *Homework #6 (from 02.11.12):*
       * [http://code.google.com/p/qa-school-project/wiki/HomeWork6 Task]
       * [http://t-uni.dyndns.org:9080/postcard/ Project]  
       * [https://docs.google.com/spreadsheet/ccc?key=0Ar_38nKFySGodHluT2RFWWF2RVZQVFlRQnQ1YzZ3ZFE#gid=0 Test cases]
       * [https://docs.google.com/document/d/1TxwrXz-fTLd6Y0SDYc4aFl-gEJbbKjthdleQEHi39cE/edit Bug reports]
+      * [https://docs.google.com/file/d/0B7_38nKFySGoNjQ1Q05PSno4aGM/edit Script (Employees BD part2)]
 ----
