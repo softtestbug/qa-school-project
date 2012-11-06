@@ -27,6 +27,10 @@
 
 [https://docs.google.com/document/d/1Mc5Ab1kbY1B2RtNQgqEdUDB0nyLBrgVrHS1mLZ3J3u0/edit Требования на основе письма]
 
+=Домашняя работа с использованием SQL=
+
+[https://docs.google.com/spreadsheet/ccc?key=0AmeWjdsL-IiRdFhYZ1VCOFBBcW1wWDVyNm1USUNBd3c#gid=0 Тест-кейсы]
+
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
