@@ -21,4 +21,4 @@
   # [https://docs.google.com/spreadsheet/ccc?key=0AkZafnPjXYbMdHRsRzVxRmN4ejhhc3EwR214WWRNb3c#gid=0 Bug-reports].
 ----
 == Homework 7 ==
-[hhttps://docs.google.com/document/d/1wp1Y7t-wwq2xy6OhPET0IaMEqIGjIsT2GKrgvEuoJ7I/edit SQL-queries 3].
+[https://docs.google.com/document/d/1wp1Y7t-wwq2xy6OhPET0IaMEqIGjIsT2GKrgvEuoJ7I/edit SQL-queries 3].
