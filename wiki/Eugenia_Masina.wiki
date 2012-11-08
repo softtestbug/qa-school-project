@@ -31,6 +31,8 @@
 
 [https://docs.google.com/spreadsheet/ccc?key=0AmeWjdsL-IiRdFhYZ1VCOFBBcW1wWDVyNm1USUNBd3c#gid=0 Тест-кейсы]
 
+[https://docs.google.com/spreadsheet/ccc?key=0AmeWjdsL-IiRdFJFM1A4WVdyS3NSb09YQkUtWWNFekE#gid=0 Баги в базе данных]
+
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
