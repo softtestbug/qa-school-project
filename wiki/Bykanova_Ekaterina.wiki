@@ -29,3 +29,7 @@
 
 = Grey-box bug-reports =
 [https://docs.google.com/spreadsheet/ccc?key=0ArgLPg3ScC_idEhmbFpmdWhlWlpRdUh2WXAtbmItUWc bug-reports]
+
+----
+
+[https://docs.google.com/document/d/1oJZSYr0_UWDOf0pWGvMEosxZhYX3wohQPDyHu-kpbuo/edit SQL-scripts, HW7]
