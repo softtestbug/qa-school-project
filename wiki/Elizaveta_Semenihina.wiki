@@ -9,20 +9,19 @@
 ------------------
 [https://docs.google.com/document/d/19ydQmKagA6X2vnpVOYYXjdhyaqTsGDoCdQAV3CgZ3HY/edit HomeWork_5_MySQl]
 ------------------
-*
+
 [https://docs.google.com/document/d/1qt-MToT-q5KBh210pSRPXP8r6dAummaRnRCKRdeUw1E/edit HomeWork_6_MySQl]
 
-*
 [https://docs.google.com/spreadsheet/ccc?key=0ArOs58O1S_A2dEhhRkNONDQ2R09oVE04ekl4OVNSRXc HomeWork_6_TestCases]
 
-*
 [https://docs.google.com/spreadsheet/ccc?key=0ArOs58O1S_A2dHVCVW9Td3hLVDdBemp2UUMwa096MXc HomeWork_6_BugReports]
 
-*
 [https://docs.google.com/document/d/1SE-uvtZNuGlad4DEfi_dxJQEfdr34j-vFCnfx4MS8eQ/edit HomeWork_6_Questions]
 ------------------
+
 *
 [https://docs.google.com/document/d/1i_nW0zqZi5mKpz25AN1V6O4hqYaDH9RgJUBV-O6yPog/edit HomeWork_7_Scripts]
+
 *
 []
 ------------------
