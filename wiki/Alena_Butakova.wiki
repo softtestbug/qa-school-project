@@ -3,6 +3,14 @@
 = Welcome =
 
 _Где мы, чувак?! Кажется, это страна летучих мышей! © Fear and Loathing in Las Vegas_
+
+----
+==HW 7==
+
+http://cs407726.userapi.com/v407726798/54f6/zaycZWCCXLA.jpg *[https://docs.google.com/file/d/0B6bgRFE9FqEcVUxTalViSjRYN2M/edit Activity Diagram Postcard]*
+
+----
+---- 
 ==HW 6==
 
 http://cs407726.userapi.com/v407726798/54f6/zaycZWCCXLA.jpg *[https://docs.google.com/spreadsheet/ccc?key=0AqbgRFE9FqEcdDNlZlpRVTZ6WFpIalhRWHVZbnYwWkE Gray]*
