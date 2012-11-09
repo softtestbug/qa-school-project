@@ -2,23 +2,23 @@
 ----
 [https://docs.google.com/document/d/1BmbSjcDxL42u5O_DUHvylbzAMnqiS-n6QrBHileqhQk/edit M. Kalashnikova's Decision Table Analysis]
 ----
-== Homework 2 == 
-[https://docs.google.com/spreadsheet/ccc?key=0AkZafnPjXYbMdFp5c2ZjUG5YQmFwU0VUUGdHTWtmZUE Test-cases].
-[https://docs.google.com/spreadsheet/ccc?key=0AkZafnPjXYbMdFp5c2ZjUG5YQmFwU0VUUGdHTWtmZUE Bug-reports].
-----
-== Homework 3 ==
-[https://docs.google.com/spreadsheet/ccc?key=0AkZafnPjXYbMdF9RTEtxdEdoT2tXMFJteXhQSWctRUE Bug-reports, Group 1].
-[https://docs.google.com/spreadsheet/ccc?key=0AkZafnPjXYbMdF91VEFMZ1VDbnc2amRYSm8wWHB3Mmc Test-cases].
-----
-== Homework 5 ==
-[https://docs.google.com/document/d/1JqRZqPQDgvqTfXA6r110o56POYFneYooVR_Un-4l21I/edit SQL-queries 1].
-----
-== Homework 6 ==
-[https://docs.google.com/document/d/14CzaCEfwRHEZtnZtHnoQ705RookJ0Bc51keoEcSh5Sk/edit SQL-queries 2].
+||== Homework 2 == ||
+[https://docs.google.com/spreadsheet/ccc?key=0AkZafnPjXYbMdFp5c2ZjUG5YQmFwU0VUUGdHTWtmZUE Test-cases].||
+[https://docs.google.com/spreadsheet/ccc?key=0AkZafnPjXYbMdFp5c2ZjUG5YQmFwU0VUUGdHTWtmZUE Bug-reports].||
 
-=== Grey-box Testing ===
-  # [https://docs.google.com/spreadsheet/ccc?key=0AkZafnPjXYbMdHhQQXppTV9jN2EyTDE4eGFKbzRkMkE&rm=full#gid=0 Test-cases].
-  # [https://docs.google.com/spreadsheet/ccc?key=0AkZafnPjXYbMdHRsRzVxRmN4ejhhc3EwR214WWRNb3c#gid=0 Bug-reports].
-----
-== Homework 7 ==
-[https://docs.google.com/document/d/1wp1Y7t-wwq2xy6OhPET0IaMEqIGjIsT2GKrgvEuoJ7I/edit SQL-queries 3].
+||== Homework 3 ==||
+[https://docs.google.com/spreadsheet/ccc?key=0AkZafnPjXYbMdF9RTEtxdEdoT2tXMFJteXhQSWctRUE Bug-reports, Group 1].||
+[https://docs.google.com/spreadsheet/ccc?key=0AkZafnPjXYbMdF91VEFMZ1VDbnc2amRYSm8wWHB3Mmc Test-cases].||
+
+||== Homework 5 ==||
+[https://docs.google.com/document/d/1JqRZqPQDgvqTfXA6r110o56POYFneYooVR_Un-4l21I/edit SQL-queries 1].||
+
+||== Homework 6 ==||
+[https://docs.google.com/document/d/14CzaCEfwRHEZtnZtHnoQ705RookJ0Bc51keoEcSh5Sk/edit SQL-queries 2].||
+
+||=== Grey-box Testing ===||
+  # [https://docs.google.com/spreadsheet/ccc?key=0AkZafnPjXYbMdHhQQXppTV9jN2EyTDE4eGFKbzRkMkE&rm=full#gid=0 Test-cases].||
+  # [https://docs.google.com/spreadsheet/ccc?key=0AkZafnPjXYbMdHRsRzVxRmN4ejhhc3EwR214WWRNb3c#gid=0 Bug-reports].||
+
+||== Homework 7 ==||
+[https://docs.google.com/document/d/1wp1Y7t-wwq2xy6OhPET0IaMEqIGjIsT2GKrgvEuoJ7I/edit SQL-queries 3].||
