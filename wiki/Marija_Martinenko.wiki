@@ -46,6 +46,6 @@
 
 [https://docs.google.com/document/d/1Cr1YJqNr9_NpOKyJY2kD8LKZ5tGQjSJp4kc_PlmKCMs/edit Tabellefuellen]
 
-= die 6. Hausaufgabe ==
+== die 6. Hausaufgabe ==
 
 [https://docs.google.com/spreadsheet/ccc?key=0AhQiTg2aXmW7dEo3U3RXaWxHNnpVZlM3Ty1fWmc2UHc#gid=0 Test-cases]
