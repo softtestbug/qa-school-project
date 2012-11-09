@@ -37,5 +37,5 @@
       * [https://docs.google.com/file/d/0B7_38nKFySGoNjQ1Q05PSno4aGM/edit Script (Employees BD part2)]
       * [https://docs.google.com/document/d/1PDwxl18WanELGGEAC9_Brk7Fcxwz9Lzl4hGtcWN-p30/edit Redesign (Postcard DB)]
    # *Homework #7 (from 07.11.12):*
-      * [https://docs.google.com/file/d/0B7_38nKFySGoVmMzbHltN2w3UlE/edit Script (Ecommerce DB)]
+      * [https://docs.google.com/file/d/0B7_38nKFySGodHluWWJ2OHVTT2c/edit Script (Ecommerce DB)]
 ----
