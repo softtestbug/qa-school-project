@@ -16,10 +16,10 @@
  * [https://docs.google.com/spreadsheet/ccc?key=0AmkPAy64UF-rdFVLamFyWGE0cjZubmdRbTBiLTdSNFE#gid=0 bugs]
  * [https://docs.google.com/spreadsheet/ccc?key=0AmkPAy64UF-rdE5lNnFDNGVXYzF5a3BPcGg4aldxTmc#gid=0 test cases]
 
-[https://docs.google.com/folder/d/0B2kPAy64UF-rSjVrbmxwVEhIaGM/edit Homework #7]
+*Homework #7* <br>
 
  * [https://drive.google.com/#folders/0B2kPAy64UF-rSjVrbmxwVEhIaGM sql queries]
 
-[https://docs.google.com/folder/d/0B2kPAy64UF-rSjVrbmxwVEhIaGM/edit Homework #8]
+*Homework #8* <br>
 
  * [https://drive.google.com/#folders/0B2kPAy64UF-rb3ViVXNsQ1JRQmM sql queries]
