@@ -54,3 +54,5 @@
 == die 6. Hausaufgabe ==
 
 [https://docs.google.com/spreadsheet/ccc?key=0AhQiTg2aXmW7dEo3U3RXaWxHNnpVZlM3Ty1fWmc2UHc#gid=0 Test-cases]
+
+[https://docs.google.com/spreadsheet/ccc?key=0AhQiTg2aXmW7dGNqd2p0MlkyQWdnSjhTdE1mX1U4QVE#gid=0 Bug-Report]
