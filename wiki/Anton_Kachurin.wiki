@@ -18,8 +18,8 @@
 
 [https://docs.google.com/folder/d/0B2kPAy64UF-rSjVrbmxwVEhIaGM/edit Homework #7]
 
- * [sql queries]
+ * [*sql queries]
 
 [https://docs.google.com/folder/d/0B2kPAy64UF-rSjVrbmxwVEhIaGM/edit Homework #8]
 
- * [sql queries]
+ * [*sql queries]
