@@ -6,3 +6,7 @@
 
  * [https://docs.google.com/spreadsheet/ccc?key=0AmkPAy64UF-rdGdJajBieVdzcXZ2OVIxSTFSQkY3N3c test cases]
  * [https://docs.google.com/document/d/1d9_cmsmVy9UEwqZ0cskWEuMel2CaGnszPthvV8cIjOY/edit specification]
+
+*Homework #5* <br>
+
+ * [https://drive.google.com/#folders/0B2kPAy64UF-rbmJUM0ZmcWlOWlk sql queries]
