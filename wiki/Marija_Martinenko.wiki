@@ -61,3 +61,5 @@
 
 == die 7. Hausaufgabe ==
 [https://docs.google.com/document/d/1fPa9UOM-kqxIBb0ifAMrijQtrj7D5fe5d9Opl8am_vw/edit Tabellefuellen: users,items,orders]
+
+[https://docs.google.com/document/d/18bwGeeOvBNfUVQYPbipDb3YR1HvaF4DLGhIm8k4SS84/edit Объединение таблиц (users,items,orders)]
