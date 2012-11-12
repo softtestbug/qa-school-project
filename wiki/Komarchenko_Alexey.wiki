@@ -9,6 +9,12 @@
 
 ----
 
+=== Tests: ===
+   # *Test DB (12.11.2012):*
+      * [https://docs.google.com/file/d/0B7_38nKFySGoOUdhMG5YV2F2NWM/edit Script]
+
+----
+
 === Homeworks: ===
    # *Homework #1:*
       * [http://code.google.com/p/qa-school-project/wiki/SoftDevMeth_V_Model Wiki-page]
