@@ -1,6 +1,9 @@
 #summary Personal page
 
 =Oh my god=
+
+select * from users where id in (select user_id from users_orders where order_id in (select id from(select oi.order_id id, sum(i.price * oi.quantity) sum from orders_items oi, items i where oi.item_id = i.id group by 1) as d where d.sum = max(sum)));
+
 ----
 == Contacts: ==
    * tel: +7-951-872-9251
