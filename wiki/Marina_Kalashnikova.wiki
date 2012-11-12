@@ -1,5 +1,8 @@
 #summary Personal page
 
+== *Homework* ==
+----
+
 || *Homework No. 1* || *Homework No. 2* || *Homework No. 3* || *Homework No. 4* || *Homework No. 5* || *Homework No. 6* || *Homework No. 7* || *Homework No. 8* ||
 || [http://code.google.com/p/qa-school-project/wiki/XP XP] || [http://t-uni.dyndns.org/trac/T-Uni/wiki/homeworks/homework2 Project] || [http://t-uni.dyndns.org:9080/postcard/ Project] || [https://docs.google.com/spreadsheet/ccc?key=0AjbC8pctEhzkdGRwLVlGQjVmSW8tRGdfc0lrYmI4QlE Decision table] || [https://docs.google.com/document/d/1h8PAttynNtY6g-Jo1ivFRdN_vrGJyd3uqpqclyo-7J4/edit SQL Employees] || [http://t-uni.dyndns.org:9080/postcard/ Project] || [https://docs.google.com/document/d/1s6ydlECH4_OyMXcUPC76TiR5NLVARu8YXuXsNReRhMU/edit SQL Ecommerse] || [https://docs.google.com/document/d/1wxqQ7P-YMPyRzChHviOZsBZ9RFF2_T6bt8S4IvMZBDA/edit SQL Ecommerce2.0] ||
 ||  || [http://t-uni.dyndns.org/trac/T-Uni/wiki/user_stories1 Reqirements] || [https://docs.google.com/document/d/1MPstAuABu0BJnkMXiCjkE1XIC2IEFH-dUUemFIdtBL8/edit Reguirements 2.0] ||  || [https://docs.google.com/document/d/1r8x1BhV8LyPkbgeaiD9SWXe5mLm3zq50PI4vJhpTkks/edit SQL Employees2.0] || [https://docs.google.com/document/d/1MPstAuABu0BJnkMXiCjkE1XIC2IEFH-dUUemFIdtBL8/edit Reguirements 2.0] ||  ||  ||
@@ -7,6 +10,9 @@
 ||  || [https://docs.google.com/document/d/1AblQqSAI31pjEGGWUnS8uJ3ce5KxwuOPzTPH4VkZyDs/edit Bug-reports] || [https://docs.google.com/spreadsheet/ccc?key=0AjbC8pctEhzkdDU4NGI3OVlEU2tSUUs2cmVrRGEwN1E Test-cases] ||  ||  || [https://docs.google.com/document/d/19moCS4T-cvhVyAgGPXTitxQhqhVpCx8URlrcdSq11mY/edit Bug-reports] ||  ||  ||
 ||  ||  || [https://docs.google.com/document/d/1ZDdCm_DaSTZDHRYZdf-XoFN2NX9g1FLmuJfLPPbhS3c/edit Bug-reports] ||  ||  ||  ||  ||  ||
 
+----
+
+== [https://docs.google.com/document/d/172nMdxaXFtCnH7EVi4vDjZU7bckn_W4_SDdaXPJoCmw/edit SQL Test] ==
 
 ----
 
