@@ -11,7 +11,7 @@
 
 === Tests: ===
    # *Test DB (12.11.2012):*
-      * [https://docs.google.com/file/d/0B7_38nKFySGoOUdhMG5YV2F2NWM/edit Script]
+      * [https://docs.google.com/file/d/0B7_38nKFySGoeUVzSDNlNFFzMzA/edit Script]
 
 ----
 
