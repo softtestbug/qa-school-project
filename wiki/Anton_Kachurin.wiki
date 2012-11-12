@@ -24,4 +24,4 @@
 
  * [https://drive.google.com/#folders/0B2kPAy64UF-rb3ViVXNsQ1JRQmM sql queries]
 
- {{{_[https://docs.google.com/folder/d/0B2kPAy64UF-rVi1NcXNTb0l5SVU/edit SQL Test]_}}}
+ _[https://docs.google.com/folder/d/0B2kPAy64UF-rVi1NcXNTb0l5SVU/edit SQL Test]_
