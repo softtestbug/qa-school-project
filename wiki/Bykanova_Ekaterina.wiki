@@ -35,3 +35,7 @@
 [https://docs.google.com/document/d/1oJZSYr0_UWDOf0pWGvMEosxZhYX3wohQPDyHu-kpbuo/edit SQL-scripts, HW7]
 
 [https://docs.google.com/document/d/1crqRetjFYhI9dhr-FoCyCKY9cHnAk2ECBs3Qu172wQw/edit SQL-scripts, HW8]
+
+----
+
+[https://docs.google.com/document/d/1RFsQQIskhEPMRflbag6Mg-BreXajvTo1suNhwneVyVw/edit Test]
