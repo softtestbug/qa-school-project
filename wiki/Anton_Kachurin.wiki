@@ -16,7 +16,7 @@
  * [https://docs.google.com/spreadsheet/ccc?key=0AmkPAy64UF-rdFVLamFyWGE0cjZubmdRbTBiLTdSNFE#gid=0 bugs]
  * [https://docs.google.com/spreadsheet/ccc?key=0AmkPAy64UF-rdE5lNnFDNGVXYzF5a3BPcGg4aldxTmc#gid=0 test cases]
 ----
-_*Homework #7*_ <br>
+*Homework #7*<br>
 ----
 
  * [https://drive.google.com/#folders/0B2kPAy64UF-rSjVrbmxwVEhIaGM sql queries]
@@ -25,4 +25,4 @@ _*Homework #7*_ <br>
 
  * [https://drive.google.com/#folders/0B2kPAy64UF-rb3ViVXNsQ1JRQmM sql queries]
 
-*[https://docs.google.com/folder/d/0B2kPAy64UF-rVi1NcXNTb0l5SVU/edit SQL Test]*
+_*[https://docs.google.com/folder/d/0B2kPAy64UF-rVi1NcXNTb0l5SVU/edit SQL Test]*_
