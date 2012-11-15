@@ -72,6 +72,6 @@
 
 -----
 
-== die 9. (=12) Hausaufgabe ==
+== die 9. (=12.) Hausaufgabe ==
 
 [https://docs.google.com/document/d/1LwEJL-n2f9x-Du__hwfavcPgBBV-TcOaX5fY7YNBVNE/edit Addresses.xml]
