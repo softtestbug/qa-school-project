@@ -28,3 +28,4 @@
 
 *Homework #12* <br>
   [https://docs.google.com/open?id=0B2kPAy64UF-rQlVHek1oS2hjc3c Book.xml]
+  [https://docs.google.com/open?id=0B2kPAy64UF-rMEFrczdDbU9kbFE Addresses.xsd] - XML Shema для задачи "Addresses"
