@@ -27,5 +27,5 @@
  _[https://docs.google.com/folder/d/0B2kPAy64UF-rVi1NcXNTb0l5SVU/edit SQL Test]_
 
 *Homework #12* <br>
-  [https://docs.google.com/open?id=0B2kPAy64UF-rQlVHek1oS2hjc3c Book.xml]
+  [https://docs.google.com/open?id=0B2kPAy64UF-rQlVHek1oS2hjc3c Book.xml]<br>
   [https://docs.google.com/open?id=0B2kPAy64UF-rMEFrczdDbU9kbFE Addresses.xsd] - XML Shema для задачи "Addresses"
