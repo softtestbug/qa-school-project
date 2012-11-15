@@ -23,3 +23,5 @@
     * [https://docs.google.com/document/d/1k-S8HnAkLgKbw5Y5jkYjMk5mveX5pnuI31wsnjI0WMk/edit sql_script]
   # eighth Homework:
     * [https://docs.google.com/document/d/1u_aiNQFxBCGisoA6Scv0qH6qHYJw8gBJEZNv1n_8RcQ/edit sql____]
+  # nineth Homework:
+    * [https://docs.google.com/document/d/1o2wha8ydNTlzM-QYDNflRykjqFBGbM8LJQTMaw25tyU/edit xml_]
