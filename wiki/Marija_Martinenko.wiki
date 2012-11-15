@@ -66,6 +66,10 @@
 
 -----
 
+== die 8. Hausaufgabe ==
+
+[https://docs.google.com/document/d/1Z46cEspL-KMlmkwfJhi-UqErTM0JowQ4gt6llFf0nqk/edit JOIN, DISTINCT, UPDATE u.s.w.]
+
 == die 9. Hausaufgabe ==
 
 [https://docs.google.com/document/d/1LwEJL-n2f9x-Du__hwfavcPgBBV-TcOaX5fY7YNBVNE/edit Addresses.xml]
