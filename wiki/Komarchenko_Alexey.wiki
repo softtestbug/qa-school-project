@@ -46,4 +46,8 @@
       * [https://docs.google.com/file/d/0B7_38nKFySGodHluWWJ2OHVTT2c/edit Script (Ecommerce DB)]
    # *Homework #8 (from 09.11.12):*
       * [https://docs.google.com/file/d/0B7_38nKFySGoaktfdTd4X1pLcHc/edit Script (Ecommerce DB part2)]
+   # *Homework #12 (from 14.11.12):*
+      * [http://code.google.com/p/qa-school-project/wiki/Homework12 Task]
+      * [https://docs.google.com/file/d/0B7_38nKFySGoNXhkTExkeC1PTWM/edit Addresses.xml]
+      * [https://docs.google.com/file/d/0B7_38nKFySGoYTgweGRBeFF4czg/edit Task2.xml]
 ----
