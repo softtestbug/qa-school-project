@@ -23,7 +23,11 @@
 
 [https://docs.google.com/document/d/1C7C35aIUjgyqRjJ5U66U0D5UXzzM_iqWIdgIpYjQixY/edit Activity Diagram]
 ------------------
-*
 [https://docs.google.com/file/d/0B7Os58O1S_A2X05kb0NCaGFvLVk/edit HomeWork_8_Semenikhina SQL]
+------------------
+*
+XML
+
+[https://docs.google.com/file/d/0B7Os58O1S_A2NWVpenI1N3ZYbmM/edit XML_book]
 ------------------
 http://yakto.ru/wp-content/uploads/bag.gif
