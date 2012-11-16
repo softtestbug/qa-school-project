@@ -21,3 +21,6 @@
 [https://docs.google.com/spreadsheet/ccc?key=0AgH66_qFgXxZdDFzLTNlUjZDa2JuUE93NGp2dVQwVnc#gid=0 Grey Box (Bug-report)]
 
 [https://docs.google.com/spreadsheet/ccc?key=0AgH66_qFgXxZdEhFZnByMEJXMVM1WFkyRUpQRTBvdEE#gid=0 Grey Box (Test-case)]
+
+==HW 12==
+[https://docs.google.com/document/d/1VK7PD-93EZp5lC_JyRNkYHaWXRch-Es5tIGRx4uC7Ws/edit Tasks for HW 12]
