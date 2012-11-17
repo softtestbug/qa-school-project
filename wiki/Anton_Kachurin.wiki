@@ -29,3 +29,7 @@
 *Homework #12* <br>
   [https://docs.google.com/open?id=0B2kPAy64UF-rQlVHek1oS2hjc3c Book.xml]<br>
   [https://docs.google.com/open?id=0B2kPAy64UF-rMEFrczdDbU9kbFE Addresses.xsd] - XML Shema для задачи "Addresses"
+
+*Homework #13*<br>
+ * [https://docs.google.com/file/d/0B2kPAy64UF-rZVRpN2NJczZsalU/edit Addresses.xml]
+ * [https://docs.google.com/document/d/19LZPmPxAqdF_kt9xAGx-jAazvv9PBMKkIYyqulyxHTE/edit XPath]
