@@ -39,3 +39,7 @@
 ----
 
 [https://docs.google.com/document/d/1RFsQQIskhEPMRflbag6Mg-BreXajvTo1suNhwneVyVw/edit Test]
+
+----
+= XML =
+[https://docs.google.com/document/d/1Ki38aLZ5zfWpB1xpEIWRhpt1G6B6E5Gn104lftDVMAc/edit XML]
