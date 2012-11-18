@@ -24,3 +24,6 @@
 
 ==HW 12==
 [https://docs.google.com/document/d/1VK7PD-93EZp5lC_JyRNkYHaWXRch-Es5tIGRx4uC7Ws/edit Tasks for HW 12]
+
+==HW 13==
+[https://docs.google.com/document/d/1cpPTWxP6Wq8mA7FIptP3fPQYQvsIzCzb3_8CYThbDHE/edit XML-document addresses; XPath.]
