@@ -28,7 +28,7 @@
 
 *Homework #12* <br>
   [https://docs.google.com/open?id=0B2kPAy64UF-rQlVHek1oS2hjc3c Book.xml]<br>
-  [https://docs.google.com/file/d/0B2kPAy64UF-rMElNRG9zOG52ZUk/edit AddressesShema.xsd] - XML Shema для задачи "Addresses"
+  [https://docs.google.com/open?id=0B2kPAy64UF-rMElNRG9zOG52ZUk AddressesShema.xsd] - XML Shema для задачи "Addresses"
 
 *Homework #13*<br>
  * [https://docs.google.com/file/d/0B2kPAy64UF-reDRDZXgwelh3djQ/edit Addresses.xml]
