@@ -27,3 +27,6 @@
 
 ==HW 13==
 [https://docs.google.com/document/d/1cpPTWxP6Wq8mA7FIptP3fPQYQvsIzCzb3_8CYThbDHE/edit XML-document addresses; XPath.]
+
+==HW 14==
+[https://docs.google.com/document/d/1wh5hLRAurKEmXxuSTpri1ZugXGkwm7mBJD82eGhys7E/edit Xpath expressions for Mail.ru main page’s elements.]
