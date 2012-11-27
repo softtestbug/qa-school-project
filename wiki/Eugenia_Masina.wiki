@@ -35,6 +35,10 @@
 
 [https://docs.google.com/document/d/1go1gyM_4GRbwxEDDsZIjZVLoAZnOiCaMQFkSdCoqFys/edit Тренировала новые операторы в Sql]
 
+=Исправленный документ wsdl=
+
+[https://docs.google.com/file/d/0B2eWjdsL-IiRMlVxWXVUQlNrTVk/edit тут]
+
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
