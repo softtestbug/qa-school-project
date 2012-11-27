@@ -39,6 +39,8 @@
 
 [https://docs.google.com/file/d/0B2eWjdsL-IiRMlVxWXVUQlNrTVk/edit тут]
 
+[https://docs.google.com/file/d/0B2eWjdsL-IiRaExqYmZMeVl5ZlU/edit тут правильный параметр]
+
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
