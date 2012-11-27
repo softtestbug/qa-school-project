@@ -55,4 +55,6 @@
       * [https://docs.google.com/file/d/0B7_38nKFySGoWEhMS2lPcl9qOTQ/edit Addresses_data.xml]
       * [https://docs.google.com/file/d/0B7_38nKFySGoR3h6eWJWc0VvWWs/edit Queries_Task1.xml]
       * [https://docs.google.com/file/d/0B7_38nKFySGodGhaSkZETmo3M3c/edit Queries_Task2.xml]
+   # *Homework #14 (from 26.11.12):*
+      * [https://docs.google.com/file/d/0B7_38nKFySGoZWswano0ZmdrbUk/edit students.wsdl]
 ----
