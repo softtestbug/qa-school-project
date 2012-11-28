@@ -30,7 +30,7 @@
 || Torque Unit Convertor || http://www.webservicex.net/ConvertTorque.asmx?WSDL || ||
 || Metric Weight Unit Convertor || http://www.webservicex.net/convertMetricWeight.asmx?WSDL || ||
 || Volume Unit Convertor || http://www.webservicex.net/convertVolume.asmx?WSDL || ||
-|| Temperature Unit Convertor || http://www.webservicex.net/ConvertTemperature.asmx?WSDL || ||
+|| Temperature Unit Convertor || http://www.webservicex.net/ConvertTemperature.asmx?WSDL || Комарченко ||
 || Frequency Unit Convertor || http://www.webservicex.net/convertFrequency.asmx?WSDL || ||
 || Astronomical Unit Convertor || http://www.webservicex.net/Astronomical.asmx?WSDL || Быканова ||
 || Force Unit Convertor || http://www.webservicex.net/ConvertForec.asmx?WSDL || ||
