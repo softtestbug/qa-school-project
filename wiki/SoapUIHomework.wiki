@@ -22,7 +22,7 @@
 = Ссылки на сервисы =
 
 || Название сервиса || Адрес WSDL-схемы || Фамилия ||
-|| Acceleration Unit Convertor || http://www.webservicex.net/ConvertAcceleration.asmx?WSDL ||  ||
+|| Acceleration Unit Convertor || http://www.webservicex.net/ConvertAcceleration.asmx?WSDL || Качурин ||
 || Pressure Unit Convertor || http://www.webservicex.net/CovertPressure.asmx?WSDL ||  ||
 || Density Unit Convertor || http://www.webservicex.net/ConvertDensity.asmx?WSDL ||  ||
 || Power Unit Convertor || http://www.webservicex.net/ConverPower.asmx?WSDL ||  ||
