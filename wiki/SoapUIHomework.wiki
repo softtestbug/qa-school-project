@@ -32,7 +32,7 @@
 || Volume Unit Convertor || http://www.webservicex.net/convertVolume.asmx?WSDL || ||
 || Temperature Unit Convertor || http://www.webservicex.net/ConvertTemperature.asmx?WSDL || ||
 || Frequency Unit Convertor || http://www.webservicex.net/convertFrequency.asmx?WSDL || ||
-|| Astronomical Unit Convertor || http://www.webservicex.net/Astronomical.asmx?WSDL || ||
+|| Astronomical Unit Convertor || http://www.webservicex.net/Astronomical.asmx?WSDL || Быканова ||
 || Force Unit Convertor || http://www.webservicex.net/ConvertForec.asmx?WSDL || ||
 
 = Дэдлайн =
