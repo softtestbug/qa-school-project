@@ -1,0 +1,39 @@
+#SoapUI homework
+
+= Задание =
+
+ 1. Изучить WSDL-схему сервиса (какого именно - об этом ниже). Описать функционал сервиса, а также список  в текстовом виде. Звучать это будет примерно так:
+
+"Сервис CoolCats позволяет искать клёвых котиков в интернете. Сервис реализует один метод, FindCoolCats, на вход которого подаются следующие параметры:
+ * Строковый параметр amountOfCats, указывает количество котиков на картинке
+ * Строковый тип Mimiamount, указывающий степень мимимишности котега.
+Выходым параметром является единственное строковое значение, указывающее на картинку с котиком в интернете (ссылка).
+
+ 2. Описать тесткейсы для проверки с помощью SoapUI в текстовом виде. Описание должно быть общим и кратким, например
+
+ * Попробовать отправить в качестве значения amountOfCats отрицательное число, слово, пустое значение, не оправлять параметр вообще.
+ * Из описания Mimiamount неясно каким образом значения Mimiamount влияют на мимимишность котиков, поэтому можно посылать серверу числа -1000, -1, 0, 1, 1000, буквы, слова "ugly", "nice", "beautiful", диакритические знаки, старинные русские проклятия, и наблюдать за ответами сервера." (Вот тут вы возрадуетесь, что у вас хорошие и понятные веб-сервисы с чётким типизированным поведением, а не котиками).
+
+ 3. Протестировать функционал сервиса - минимум 5 тестов, в каждом тестовом шаге минимум 3 проверки. За плохие проверки, которые ничего не проверяют, буду снижать балл (*прим. - ниже 0 итоговый балл быть не может*). Готовый проект сохратить в гугл.драйв и расшарить мне и Ирине.
+
+А теперь самое вкусное - так как у нас демократия, давайте-ка вы сами разберёте себе сервисы по вкусу из таблички ниже, только не забудьте вписать туда свою фамилию, чтобы другие не захапали ваш замечательный сервис.
+
+
+= Ссылки на сервисы =
+
+|| Название сервиса || Адрес WSDL-схемы || Фамилия ||
+|| Acceleration Unit Convertor || http://www.webservicex.net/ConvertAcceleration.asmx?WSDL ||  ||
+|| Pressure Unit Convertor || http://www.webservicex.net/CovertPressure.asmx?WSDL ||  ||
+|| Density Unit Convertor || http://www.webservicex.net/ConvertDensity.asmx?WSDL ||  ||
+|| Power Unit Convertor || http://www.webservicex.net/ConverPower.asmx?WSDL ||  ||
+|| Angles Unit Convertor || http://www.webservicex.net/ConvertAngle.asmx?WSDL || ||
+|| Torque Unit Convertor || http://www.webservicex.net/ConvertTorque.asmx?WSDL || ||
+|| Metric Weight Unit Convertor || http://www.webservicex.net/convertMetricWeight.asmx?WSDL || ||
+|| Volume Unit Convertor || http://www.webservicex.net/convertVolume.asmx?WSDL || ||
+|| Temperature Unit Convertor || http://www.webservicex.net/ConvertTemperature.asmx?WSDL || ||
+|| Frequency Unit Convertor || http://www.webservicex.net/convertFrequency.asmx?WSDL || ||
+|| Astronomical Unit Convertor || http://www.webservicex.net/Astronomical.asmx?WSDL || ||
+|| Force Unit Convertor || http://www.webservicex.net/ConvertForec.asmx?WSDL || ||
+
+= Дэдлайн =
+Задание надо сделать до 18 часов 4 декабря 2012 года. Еще раз: до 04.12.2012 18:00 по грегорианскому календарю.
