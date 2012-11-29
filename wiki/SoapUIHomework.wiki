@@ -26,7 +26,7 @@
 || Pressure Unit Convertor || http://www.webservicex.net/CovertPressure.asmx?WSDL ||  ||
 || Density Unit Convertor || http://www.webservicex.net/ConvertDensity.asmx?WSDL || Никиян ||
 || Power Unit Convertor || http://www.webservicex.net/ConverPower.asmx?WSDL ||  ||
-|| Angles Unit Convertor || http://www.webservicex.net/ConvertAngle.asmx?WSDL || ||
+|| Angles Unit Convertor || http://www.webservicex.net/ConvertAngle.asmx?WSDL || Семенихина ||
 || Torque Unit Convertor || http://www.webservicex.net/ConvertTorque.asmx?WSDL || ||
 || Metric Weight Unit Convertor || http://www.webservicex.net/convertMetricWeight.asmx?WSDL || ||
 || Volume Unit Convertor || http://www.webservicex.net/convertVolume.asmx?WSDL || Половнев ||
