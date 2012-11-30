@@ -26,13 +26,13 @@
 || Density Unit Convertor || http://www.webservicex.net/ConvertDensity.asmx?WSDL || Никиян ||
 || Power Unit Convertor || http://www.webservicex.net/ConverPower.asmx?WSDL || Бутакова  ||
 || Angles Unit Convertor || http://www.webservicex.net/ConvertAngle.asmx?WSDL || Семенихина ||
-|| Torque Unit Convertor || http://www.webservicex.net/ConvertTorque.asmx?WSDL || ||
+|| Torque Unit Convertor || http://www.webservicex.net/ConvertTorque.asmx?WSDL || Калашникова ||
 || Metric Weight Unit Convertor || http://www.webservicex.net/convertMetricWeight.asmx?WSDL || Ненастьева ||
 || Volume Unit Convertor || http://www.webservicex.net/convertVolume.asmx?WSDL || Половнев ||
 || Temperature Unit Convertor || http://www.webservicex.net/ConvertTemperature.asmx?WSDL || Комарченко ||
 || Frequency Unit Convertor || http://www.webservicex.net/convertFrequency.asmx?WSDL || ||
 || Astronomical Unit Convertor || http://www.webservicex.net/Astronomical.asmx?WSDL || Быканова ||
-|| Force Unit Convertor || http://www.webservicex.net/ConvertForec.asmx?WSDL || Калашникова ||
+|| Force Unit Convertor || http://www.webservicex.net/ConvertForec.asmx?WSDL || ||
 
 = Дэдлайн =
 Задание надо сделать до 18 часов 4 декабря 2012 года. Еще раз: до 04.12.2012 18:00 по грегорианскому календарю.
