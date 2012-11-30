@@ -32,7 +32,7 @@
 || Temperature Unit Convertor || http://www.webservicex.net/ConvertTemperature.asmx?WSDL || Комарченко ||
 || Frequency Unit Convertor || http://www.webservicex.net/convertFrequency.asmx?WSDL || ||
 || Astronomical Unit Convertor || http://www.webservicex.net/Astronomical.asmx?WSDL || Быканова ||
-|| Force Unit Convertor || http://www.webservicex.net/ConvertForec.asmx?WSDL || ||
+|| Force Unit Convertor || http://www.webservicex.net/ConvertForec.asmx?WSDL || Калашникова ||
 
 = Дэдлайн =
 Задание надо сделать до 18 часов 4 декабря 2012 года. Еще раз: до 04.12.2012 18:00 по грегорианскому календарю.
