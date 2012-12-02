@@ -25,7 +25,7 @@
 || Название сервиса || Адрес WSDL-схемы || Фамилия || Ссылки || Оценка ||
 || Acceleration Unit Convertor || http://www.webservicex.net/ConvertAcceleration.asmx?WSDL || Качурин || || ||
 || Pressure Unit Convertor || http://www.webservicex.net/CovertPressure.asmx?WSDL ||  Пайдыганов|| || ||
-|| Density Unit Convertor || http://www.webservicex.net/ConvertDensity.asmx?WSDL || Никиян || || ||
+|| Density Unit Convertor || http://www.webservicex.net/ConvertDensity.asmx?WSDL || Никиян || [https://docs.google.com/document/d/1C5g2HCXABBuLQDU9AFjSapy32lsunbYdNFKGHf3Nz0E/edit Описание], [https://docs.google.com/file/d/0B0ZafnPjXYbMTkNRZzdFX3VXM0U/edit проект]|| ||
 || Power Unit Convertor || http://www.webservicex.net/ConverPower.asmx?WSDL || Бутакова  || || ||
 || Angles Unit Convertor || http://www.webservicex.net/ConvertAngle.asmx?WSDL || Семенихина || || ||
 || Torque Unit Convertor || http://www.webservicex.net/ConvertTorque.asmx?WSDL || Калашникова || || ||
