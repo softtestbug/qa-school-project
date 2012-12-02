@@ -82,3 +82,7 @@
 [https://docs.google.com/document/d/1LwEJL-n2f9x-Du__hwfavcPgBBV-TcOaX5fY7YNBVNE/edit Addresses.xml]
 
 [https://docs.google.com/document/d/1G33QLaPgdqaCGkRtFf7sdIikIDDcL80lvz_mE2j_vyY/edit XML-2]
+
+== die 11. Hausaufgabe (SoapUI) ==
+
+[https://docs.google.com/document/d/1pAe-6kXhlvN_6T8H7rhLmRDJiGrd2awxUcwxrEQWfhY/edit Beschreibung, Test-cases]
