@@ -27,7 +27,7 @@
 || Pressure Unit Convertor || http://www.webservicex.net/CovertPressure.asmx?WSDL ||  Пайдыганов|| || ||
 || Density Unit Convertor || http://www.webservicex.net/ConvertDensity.asmx?WSDL || Никиян || [https://docs.google.com/document/d/1C5g2HCXABBuLQDU9AFjSapy32lsunbYdNFKGHf3Nz0E/edit Описание], [https://docs.google.com/file/d/0B0ZafnPjXYbMMjA3aERJdFhrdjg/edit проект]|| ||
 || Power Unit Convertor || http://www.webservicex.net/ConverPower.asmx?WSDL || Бутакова  || || ||
-|| Angles Unit Convertor || http://www.webservicex.net/ConvertAngle.asmx?WSDL || Семенихина || || ||
+|| Angles Unit Convertor || http://www.webservicex.net/ConvertAngle.asmx?WSDL || Семенихина || [https://docs.google.com/document/d/1DiIWQQSf86mV3GNTvU3nOtUAiwWbJPu2wlX9ct3KOGk/edit Описание],[https://docs.google.com/file/d/0B7Os58O1S_A2clJBUWJ5YURGcjA/edit Проект] || ||
 || Torque Unit Convertor || http://www.webservicex.net/ConvertTorque.asmx?WSDL || Калашникова || || ||
 || Metric Weight Unit Convertor || http://www.webservicex.net/convertMetricWeight.asmx?WSDL || Ненастьева || || ||
 || Volume Unit Convertor || http://www.webservicex.net/convertVolume.asmx?WSDL || Половнев || || ||
