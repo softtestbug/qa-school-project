@@ -39,6 +39,6 @@
 
 [https://docs.google.com/document/d/1DiIWQQSf86mV3GNTvU3nOtUAiwWbJPu2wlX9ct3KOGk/edit Descriptions]
 
-[https://docs.google.com/file/d/0B7Os58O1S_A2clJBUWJ5YURGcjA/edit SoapUI_Project]
+[https://docs.google.com/file/d/0B7Os58O1S_A2SElMd3R0d1EtSDA/edit SoapUI_Project]
 ------------------
 http://yakto.ru/wp-content/uploads/bag.gif
