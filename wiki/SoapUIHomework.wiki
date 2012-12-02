@@ -18,10 +18,12 @@
 
 А теперь самое вкусное - так как у нас демократия, давайте-ка вы сами разберёте себе сервисы по вкусу из таблички ниже, только не забудьте вписать туда свою фамилию, чтобы другие не забрали себе ваш замечательный сервис.
 
+Также, в табличку нужно ввести ссылки на ваш документ с описанием, и на сам проект SoapUI (как это сделано у Алексея). Графу "Оценка" я заполню сам.
+
 
 = Ссылки на сервисы =
 || Название сервиса || Адрес WSDL-схемы || Фамилия || Ссылки || Оценка ||
-|| Acceleration Unit Convertor || http://www.webservicex.net/ConvertAcceleration.asmx?WSDL || Качурин || [https://docs.google.com/document/d/1ii5wWHYRqXMmgCH5xrv6A6JNcnahZN7CoKUOli3rDUE/edit описание], [https://docs.google.com/file/d/0B7_38nKFySGodXFYa3Q4MnpaRTQ/edit проект] ||
+|| Acceleration Unit Convertor || http://www.webservicex.net/ConvertAcceleration.asmx?WSDL || Качурин || || ||
 || Pressure Unit Convertor || http://www.webservicex.net/CovertPressure.asmx?WSDL ||  Пайдыганов|| || ||
 || Density Unit Convertor || http://www.webservicex.net/ConvertDensity.asmx?WSDL || Никиян || || ||
 || Power Unit Convertor || http://www.webservicex.net/ConverPower.asmx?WSDL || Бутакова  || || ||
@@ -29,7 +31,7 @@
 || Torque Unit Convertor || http://www.webservicex.net/ConvertTorque.asmx?WSDL || Калашникова || || ||
 || Metric Weight Unit Convertor || http://www.webservicex.net/convertMetricWeight.asmx?WSDL || Ненастьева || || ||
 || Volume Unit Convertor || http://www.webservicex.net/convertVolume.asmx?WSDL || Половнев || || ||
-|| Temperature Unit Convertor || http://www.webservicex.net/ConvertTemperature.asmx?WSDL || Комарченко || || ||
+|| Temperature Unit Convertor || http://www.webservicex.net/ConvertTemperature.asmx?WSDL || Комарченко || [https://docs.google.com/document/d/1ii5wWHYRqXMmgCH5xrv6A6JNcnahZN7CoKUOli3rDUE/edit описание], [https://docs.google.com/file/d/0B7_38nKFySGodXFYa3Q4MnpaRTQ/edit проект] ||
 || Frequency Unit Convertor || http://www.webservicex.net/convertFrequency.asmx?WSDL ||Мартыненко || || ||
 || Astronomical Unit Convertor || http://www.webservicex.net/Astronomical.asmx?WSDL || Быканова || || ||
 || Force Unit Convertor || http://www.webservicex.net/ConvertForec.asmx?WSDL ||Мазина || || ||
