@@ -36,10 +36,9 @@
 [https://docs.google.com/document/d/1lGm3ICFLf6Iu8V68YlobheYTvyVH-5aRjY-vgALLJyc/edit xPath]
 ------------------
 === HomeWork15 (SoapUI) ===
-[https://docs.google.com/document/d/1fmIxMhQm4o2oLtwB8yA5ZMg7YbBxL5hkHMHZZifAAFE/edit README]
 
 [https://docs.google.com/document/d/1DiIWQQSf86mV3GNTvU3nOtUAiwWbJPu2wlX9ct3KOGk/edit Descriptions]
 
-[https://docs.google.com/file/d/0B7Os58O1S_A2bGFZUG9DV0NhbDg/edit SoapUI_Project]
+[https://docs.google.com/file/d/0B7Os58O1S_A2clJBUWJ5YURGcjA/edit SoapUI_Project]
 ------------------
 http://yakto.ru/wp-content/uploads/bag.gif
