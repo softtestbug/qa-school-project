@@ -25,17 +25,17 @@
 ------------------
 [https://docs.google.com/file/d/0B7Os58O1S_A2X05kb0NCaGFvLVk/edit HomeWork_8_Semenikhina SQL]
 ------------------
-=== HomeWork12 ===
+== HomeWork12 ==
 
 [https://docs.google.com/file/d/0B7Os58O1S_A2NWVpenI1N3ZYbmM/edit XML_book]
 
 [https://docs.google.com/file/d/0B7Os58O1S_A2UWlsNjl2enByaHc/edit XML_addresses]
 ------------------
-=== HomeWork13 ===
+== HomeWork13 ==
 
 [https://docs.google.com/document/d/1lGm3ICFLf6Iu8V68YlobheYTvyVH-5aRjY-vgALLJyc/edit xPath]
 ------------------
-=== HomeWork13 (SoapUI) ===
+=== HomeWork15 (SoapUI) ===
 [https://docs.google.com/document/d/1fmIxMhQm4o2oLtwB8yA5ZMg7YbBxL5hkHMHZZifAAFE/edit README]
 
 [https://docs.google.com/document/d/1DiIWQQSf86mV3GNTvU3nOtUAiwWbJPu2wlX9ct3KOGk/edit Descriptions]
