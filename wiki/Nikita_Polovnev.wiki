@@ -30,3 +30,8 @@
 
 ==HW 14==
 [https://docs.google.com/document/d/1wh5hLRAurKEmXxuSTpri1ZugXGkwm7mBJD82eGhys7E/edit Xpath expressions for Mail.ru main page’s elements.]
+
+==HW (Soap UI)==
+[https://docs.google.com/document/d/16jcb6FPoBUD6UpkBpEzyu8vj64OHfpzhoAuDanpoVbs/edit Description]
+
+[http://files.mail.ru/XHM98I Project]
