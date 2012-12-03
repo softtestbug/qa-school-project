@@ -35,7 +35,7 @@
 
 [https://docs.google.com/document/d/1lGm3ICFLf6Iu8V68YlobheYTvyVH-5aRjY-vgALLJyc/edit xPath]
 ------------------
-=== HomeWork15 (SoapUI) ===
+=== HomeWork(SoapUI) ===
 
 [https://docs.google.com/document/d/1DiIWQQSf86mV3GNTvU3nOtUAiwWbJPu2wlX9ct3KOGk/edit Descriptions]
 
