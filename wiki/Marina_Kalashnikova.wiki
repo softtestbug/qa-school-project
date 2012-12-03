@@ -3,14 +3,14 @@
 == *Homework* ==
 ----
 
-|| *Homework No. 1* || *Homework No. 2* || *Homework No. 3* || *Homework No. 4* || *Homework No. 5* || *Homework No. 6* ||
+|| *Homework No.01* || *Homework No.02* || *Homework No.03* || *Homework No.04* || *Homework No.05* || *Homework No.06* ||
 || [http://code.google.com/p/qa-school-project/wiki/XP XP] || [http://t-uni.dyndns.org/trac/T-Uni/wiki/homeworks/homework2 Project] || [http://t-uni.dyndns.org:9080/postcard/ Project] || [https://docs.google.com/spreadsheet/ccc?key=0AjbC8pctEhzkdGRwLVlGQjVmSW8tRGdfc0lrYmI4QlE Decision table] || [https://docs.google.com/document/d/1h8PAttynNtY6g-Jo1ivFRdN_vrGJyd3uqpqclyo-7J4/edit SQL Employees] || [http://t-uni.dyndns.org:9080/postcard/ Project] ||
 ||  || [http://t-uni.dyndns.org/trac/T-Uni/wiki/user_stories1 Reqirements] || [https://docs.google.com/document/d/1MPstAuABu0BJnkMXiCjkE1XIC2IEFH-dUUemFIdtBL8/edit Reguirements 2.0] ||  || [https://docs.google.com/document/d/1r8x1BhV8LyPkbgeaiD9SWXe5mLm3zq50PI4vJhpTkks/edit SQL Employees2.0] || [https://docs.google.com/document/d/1MPstAuABu0BJnkMXiCjkE1XIC2IEFH-dUUemFIdtBL8/edit Reguirements 2.0] ||
 ||  || [https://docs.google.com/spreadsheet/ccc?key=0AjbC8pctEhzkdGdCY3lVY0lyeWpkLWdXcGd0YTl0TXc Test-cases] || [https://docs.google.com/document/d/15t0y3b7Nmavkmw87JfxXtqo2f-tLYk-jB6AhpLAlZqM/edit Questions]||  ||  || [https://docs.google.com/spreadsheet/ccc?key=0AjbC8pctEhzkdG5XOC05bkktbENLRnBmQWh2Ym5Yd2c Test-cases] ||
 ||  || [https://docs.google.com/document/d/1AblQqSAI31pjEGGWUnS8uJ3ce5KxwuOPzTPH4VkZyDs/edit Bug-reports] || [https://docs.google.com/spreadsheet/ccc?key=0AjbC8pctEhzkdDU4NGI3OVlEU2tSUUs2cmVrRGEwN1E Test-cases] ||  ||  || [https://docs.google.com/document/d/19moCS4T-cvhVyAgGPXTitxQhqhVpCx8URlrcdSq11mY/edit Bug-reports] ||
 ||  ||  || [https://docs.google.com/document/d/1ZDdCm_DaSTZDHRYZdf-XoFN2NX9g1FLmuJfLPPbhS3c/edit Bug-reports] ||  ||  ||  ||
 
-|| *Homework No. 7* || *Homework No. 8* || *Homework No. 12* || *Homework No. 13* || *Homework No.14* || *Homework No.15* ||
+|| *Homework No.07* || *Homework No.08* || *Homework No. 12* || *Homework No. 13* || *Homework No.14* || *Homework No.15* ||
 || [https://docs.google.com/document/d/1s6ydlECH4_OyMXcUPC76TiR5NLVARu8YXuXsNReRhMU/edit Ecommerse] || [https://docs.google.com/document/d/1wxqQ7P-YMPyRzChHviOZsBZ9RFF2_T6bt8S4IvMZBDA/edit Ecommerce2.0] || [http://code.google.com/p/qa-school-project/wiki/Homework12 Task] || [http://code.google.com/p/qa-school-project/wiki/homwwork13 Task] || [https://docs.google.com/document/d/1HLZvKLkcJ0S3H_08hXU7XqSNHXGruJD3QYiCJiRrVbY/edit Students.wsdl] ||  ||
 ||  ||  || [https://docs.google.com/document/d/1SvphWY6w6YUjP3Srpy04dFlv73JNYnDjuo9tRNgcWiM/edit Addresses/Book] || [https://docs.google.com/document/d/1KoPpdH46-eUgZX-T7ZXfFp9e5vRFihBcUw9_SR24Lbo/edit XPath] ||  ||  ||
 
