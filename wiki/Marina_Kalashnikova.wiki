@@ -17,7 +17,7 @@
 || *Homework WSDL (A.Brynka)* || *Homework soapUI (A.Brynka)* ||
 || [https://docs.google.com/document/d/1HLZvKLkcJ0S3H_08hXU7XqSNHXGruJD3QYiCJiRrVbY/edit Students.wsdl] || [http://code.google.com/p/qa-school-project/wiki/SoapUIHomework Task] ||
 ||  || [https://docs.google.com/document/d/1dA6Tb4Utj5ZZxZ5ANOOE3ItFQJpnLi_MtYmCBMjEuvY/edit Description] ||
-||  || [https://docs.google.com/document/d/1LErMiH6oOgYr4_MksCx72PoecymzPTrVEtMg0KPKUsI/edit Test] ||
+||  || [https://docs.google.com/folder/d/0BzbC8pctEhzkSWZOb0k0bkRPekU/edit?docId=0BzbC8pctEhzkak9FdDdDSW5uclE Test] ||
 
 ----
 
