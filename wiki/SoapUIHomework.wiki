@@ -23,7 +23,7 @@
 
 = Ссылки на сервисы =
 || Название сервиса || Адрес WSDL-схемы || Фамилия || Ссылки || Оценка ||
-|| Acceleration Unit Convertor || http://www.webservicex.net/ConvertAcceleration.asmx?WSDL || Качурин || [Описание], [https://docs.google.com/open?id=0B2kPAy64UF-rYWNlcUFEc1hFblE проект]|| ||
+|| Acceleration Unit Convertor || http://www.webservicex.net/ConvertAcceleration.asmx?WSDL || Качурин || [https://docs.google.com/document/d/1al7xO-hdVe3U6k7gAxkQ-tKywSQXUpzO7Kyb1TX382g/edit Описание], [https://docs.google.com/open?id=0B2kPAy64UF-rYWNlcUFEc1hFblE проект]|| ||
 || Pressure Unit Convertor || http://www.webservicex.net/CovertPressure.asmx?WSDL ||  Пайдыганов|| [https://docs.google.com/open?id=0B6Aa3tpZrxEiT1FjNWF4bGN4bWs Описание], [https://docs.google.com/open?id=0B6Aa3tpZrxEieExFajktdUU2LXM проект]|| ||
 || Density Unit Convertor || http://www.webservicex.net/ConvertDensity.asmx?WSDL || Никиян || [https://docs.google.com/document/d/1C5g2HCXABBuLQDU9AFjSapy32lsunbYdNFKGHf3Nz0E/edit Описание], [https://docs.google.com/file/d/0B0ZafnPjXYbMMjA3aERJdFhrdjg/edit проект]|| ||
 || Power Unit Convertor || http://www.webservicex.net/ConverPower.asmx?WSDL || Бутакова  || || ||
