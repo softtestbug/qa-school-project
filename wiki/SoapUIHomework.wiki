@@ -29,12 +29,12 @@
 || Power Unit Convertor || http://www.webservicex.net/ConverPower.asmx?WSDL || Бутакова  ||[https://docs.google.com/document/d/1OsEjGhndUhLr5ZJfTMUMzsLwZunclKKtlOopBo7sgoo/edit Описание],[https://docs.google.com/file/d/0B6bgRFE9FqEcQlM1S0xOMVJyUkk/edit Проект] || ||
 || Angles Unit Convertor || http://www.webservicex.net/ConvertAngle.asmx?WSDL || Семенихина || [https://docs.google.com/document/d/1DiIWQQSf86mV3GNTvU3nOtUAiwWbJPu2wlX9ct3KOGk/edit Описание], [https://docs.google.com/file/d/0B7Os58O1S_A2SElMd3R0d1EtSDA/edit Проект] || ||
 || Torque Unit Convertor || http://www.webservicex.net/ConvertTorque.asmx?WSDL || Калашникова || [https://docs.google.com/document/d/1dA6Tb4Utj5ZZxZ5ANOOE3ItFQJpnLi_MtYmCBMjEuvY/edit Описание], [https://docs.google.com/folder/d/0BzbC8pctEhzkSWZOb0k0bkRPekU/edit?docId=0BzbC8pctEhzkd2Jwb2RKR1NMVWs Проект] || ||
-|| Metric Weight Unit Convertor || http://www.webservicex.net/convertMetricWeight.asmx?WSDL || Ненастьева || || ||
+|| Metric Weight Unit Convertor || http://www.webservicex.net/convertMetricWeight.asmx?WSDL || Ненастьева || || не сдала ||
 || Volume Unit Convertor || http://www.webservicex.net/convertVolume.asmx?WSDL || Половнев ||[https://docs.google.com/document/d/16jcb6FPoBUD6UpkBpEzyu8vj64OHfpzhoAuDanpoVbs/edit Описание], [http://files.mail.ru/XHM98I проект] || ||
 || Temperature Unit Convertor || http://www.webservicex.net/ConvertTemperature.asmx?WSDL || Комарченко || [https://docs.google.com/document/d/1ii5wWHYRqXMmgCH5xrv6A6JNcnahZN7CoKUOli3rDUE/edit описание], [https://docs.google.com/file/d/0B7_38nKFySGoeWw3aWZpV0FKWXM/edit проект] || ||
 || Frequency Unit Convertor || http://www.webservicex.net/convertFrequency.asmx?WSDL ||Мартыненко ||[https://docs.google.com/document/d/1pAe-6kXhlvN_6T8H7rhLmRDJiGrd2awxUcwxrEQWfhY/edit Описание] [http://files.mail.ru/YJM109 Проект] || ||
 || Astronomical Unit Convertor || http://www.webservicex.net/Astronomical.asmx?WSDL || Быканова ||[https://docs.google.com/document/d/11c3EzDvQHenBy-OtwoDbNrVHbU2z3JQ6Yacu26AHGAo/edit Описание] [https://docs.google.com/open?id=0B7gLPg3ScC_iMGtaN280cEM5SWs Проект] || ||
-|| Force Unit Convertor || http://www.webservicex.net/ConvertForec.asmx?WSDL ||Мазина || || ||
+|| Force Unit Convertor || http://www.webservicex.net/ConvertForec.asmx?WSDL ||Мазина || || не сдала ||
 
 = Дэдлайн =
 Задание надо сделать до 18 часов 4 декабря 2012 года (тамйзона GMT +4). Еще раз: до 04.12.2012 18:00 по грегорианскому календарю.
