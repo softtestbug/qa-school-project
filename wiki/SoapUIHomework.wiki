@@ -31,7 +31,7 @@
 || Torque Unit Convertor || http://www.webservicex.net/ConvertTorque.asmx?WSDL || Калашникова || || ||
 || Metric Weight Unit Convertor || http://www.webservicex.net/convertMetricWeight.asmx?WSDL || Ненастьева || || ||
 || Volume Unit Convertor || http://www.webservicex.net/convertVolume.asmx?WSDL || Половнев ||[https://docs.google.com/document/d/16jcb6FPoBUD6UpkBpEzyu8vj64OHfpzhoAuDanpoVbs/edit Описание], [http://files.mail.ru/XHM98I проект] || ||
-|| Temperature Unit Convertor || http://www.webservicex.net/ConvertTemperature.asmx?WSDL || Комарченко || [https://docs.google.com/document/d/1ii5wWHYRqXMmgCH5xrv6A6JNcnahZN7CoKUOli3rDUE/edit описание], [https://docs.google.com/file/d/0B7_38nKFySGodXFYa3Q4MnpaRTQ/edit проект] || ||
+|| Temperature Unit Convertor || http://www.webservicex.net/ConvertTemperature.asmx?WSDL || Комарченко || [https://docs.google.com/document/d/1ii5wWHYRqXMmgCH5xrv6A6JNcnahZN7CoKUOli3rDUE/edit описание], [https://docs.google.com/file/d/0B7_38nKFySGoeWw3aWZpV0FKWXM/edit проект] || ||
 || Frequency Unit Convertor || http://www.webservicex.net/convertFrequency.asmx?WSDL ||Мартыненко ||[https://docs.google.com/document/d/1pAe-6kXhlvN_6T8H7rhLmRDJiGrd2awxUcwxrEQWfhY/edit Описание] [http://files.mail.ru/YJM109 Проект] || ||
 || Astronomical Unit Convertor || http://www.webservicex.net/Astronomical.asmx?WSDL || Быканова || || ||
 || Force Unit Convertor || http://www.webservicex.net/ConvertForec.asmx?WSDL ||Мазина || || ||
