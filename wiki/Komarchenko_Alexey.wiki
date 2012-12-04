@@ -60,5 +60,5 @@
    # *Homework #15 (from 28.11.12):*
       * [http://code.google.com/p/qa-school-project/wiki/SoapUIHomework Task]
       * [https://docs.google.com/document/d/1ii5wWHYRqXMmgCH5xrv6A6JNcnahZN7CoKUOli3rDUE/edit Descriptions]
-      * [https://docs.google.com/file/d/0B7_38nKFySGodXFYa3Q4MnpaRTQ/edit SOAP_UI_ConvertTemperature]
+      * [https://docs.google.com/file/d/0B7_38nKFySGoeWw3aWZpV0FKWXM/edit SOAP_UI_ConvertTemperature]
 ----
