@@ -90,3 +90,9 @@
 [https://docs.google.com/document/d/1pAe-6kXhlvN_6T8H7rhLmRDJiGrd2awxUcwxrEQWfhY/edit Beschreibung, Test-cases]
 
 [https://docs.google.com/file/d/0BxQiTg2aXmW7dGU4Tm01VWU4UHc/edit .xml]
+
+------
+
+== die 12. Hausaufgabe (Eclipse) ==
+
+[https://docs.google.com/document/d/1TqjkuXn_zWCX9NcnKoL-SWj1CXoseXM-WQIlc-la8Yc/edit Eclipse]
