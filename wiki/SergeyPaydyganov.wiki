@@ -32,4 +32,5 @@
   # twelfth Homework:
     * [https://docs.google.com/open?id=0B6Aa3tpZrxEiT1FjNWF4bGN4bWs doc] 
     * [https://docs.google.com/open?id=0B6Aa3tpZrxEieExFajktdUU2LXM test_cases]
-    
+  # thirteenth Homework:
+    * [https://docs.google.com/folder/d/0B6Aa3tpZrxEiaDlQQ3lZazlNT2s/edit auto_test]
