@@ -1,0 +1,3 @@
+#labels Selenium
+#common questions about Java and Selenium
+Вопросы складывайте в комменты, я буду отвечать и переносить их сюда, в тело статьи.
