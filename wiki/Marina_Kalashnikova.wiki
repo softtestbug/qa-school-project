@@ -11,8 +11,9 @@
 ||  ||  || [https://docs.google.com/document/d/1ZDdCm_DaSTZDHRYZdf-XoFN2NX9g1FLmuJfLPPbhS3c/edit Bug-reports] ||  ||  ||  ||  ||
 
 || *Homework No.08* || *Homework No.12* || *Homework No.13* || *Homework No. 14* || *Homework No.15* || *Homework No.16* || *Homework No.17* ||
-||[https://docs.google.com/document/d/1wxqQ7P-YMPyRzChHviOZsBZ9RFF2_T6bt8S4IvMZBDA/edit Ecommerce2.0] || [http://code.google.com/p/qa-school-project/wiki/Homework12 Task] || [http://code.google.com/p/qa-school-project/wiki/homwwork13 Task] || [http://code.google.com/p/qa-school-project/wiki/HomeWork14 Task] ||  ||  ||  ||
-||  || [https://docs.google.com/document/d/1SvphWY6w6YUjP3Srpy04dFlv73JNYnDjuo9tRNgcWiM/edit Addresses/Book] || [https://docs.google.com/document/d/1KoPpdH46-eUgZX-T7ZXfFp9e5vRFihBcUw9_SR24Lbo/edit XPath] ||  ||  ||  ||  ||
+||[https://docs.google.com/document/d/1wxqQ7P-YMPyRzChHviOZsBZ9RFF2_T6bt8S4IvMZBDA/edit Ecommerce2.0] || [http://code.google.com/p/qa-school-project/wiki/Homework12 Task] || [http://code.google.com/p/qa-school-project/wiki/homwwork13 Task] || [http://code.google.com/p/qa-school-project/wiki/HomeWork14 Task] ||  || [http://code.google.com/p/qa-school-project/wiki/HomeWork16 Task (VK)] ||  ||
+||  || [https://docs.google.com/document/d/1SvphWY6w6YUjP3Srpy04dFlv73JNYnDjuo9tRNgcWiM/edit Addresses/Book] || [https://docs.google.com/document/d/1KoPpdH46-eUgZX-T7ZXfFp9e5vRFihBcUw9_SR24Lbo/edit XPath] ||  ||  || [https://docs.google.com/spreadsheet/ccc?key=0AqAa3tpZrxEidHNXaVU2d1hSXzBRU1p0SmlmUE0yVEE Test-cases (VK)] ||  ||
+||  ||  ||  ||  ||  || [ Autotests (VK)] ||  ||
 
 || *Homework WSDL (A.Brynka)* || *Homework soapUI (A.Brynka)* ||
 || [https://docs.google.com/document/d/1HLZvKLkcJ0S3H_08hXU7XqSNHXGruJD3QYiCJiRrVbY/edit Students.wsdl] || [http://code.google.com/p/qa-school-project/wiki/SoapUIHomework Task] ||
