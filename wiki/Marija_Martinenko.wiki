@@ -96,3 +96,8 @@
 == die 12. Hausaufgabe (Eclipse) ==
 
 [https://docs.google.com/document/d/1TqjkuXn_zWCX9NcnKoL-SWj1CXoseXM-WQIlc-la8Yc/edit Eclipse]
+----
+
+== die 13. Hausaufgabe (Facebook) Teamwork ==
+
+[https://docs.google.com/spreadsheet/ccc?key=0AgH66_qFgXxZdDVKNGhMd3ZMVDZGN3NubjhQTG1uR0E#gid=0 Test-cases]
