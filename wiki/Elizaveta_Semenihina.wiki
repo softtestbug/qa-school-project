@@ -35,10 +35,13 @@
 
 [https://docs.google.com/document/d/1lGm3ICFLf6Iu8V68YlobheYTvyVH-5aRjY-vgALLJyc/edit xPath]
 ------------------
-=== HomeWork(SoapUI) ===
+==== HomeWork(SoapUI) ====
 
 [https://docs.google.com/document/d/1DiIWQQSf86mV3GNTvU3nOtUAiwWbJPu2wlX9ct3KOGk/edit Descriptions]
 
 [https://docs.google.com/file/d/0B7Os58O1S_A2SElMd3R0d1EtSDA/edit SoapUI_Project]
+------------------
+=== HomeWork 16 ===
+[https://docs.google.com/spreadsheet/ccc?key=0ArOs58O1S_A2dHI3SmF4Y2NQQ2hXc1pRanhDWUxMQmc#gid=0 TestCases_Group2]
 ------------------
 http://yakto.ru/wp-content/uploads/bag.gif
