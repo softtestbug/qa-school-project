@@ -36,3 +36,5 @@
     * [https://docs.google.com/open?id=0B6Aa3tpZrxEic3FzNEJoLXVVd28 auto_test]
   # fourteenth Homework:
     * [https://docs.google.com/spreadsheet/ccc?key=0AqAa3tpZrxEidHNXaVU2d1hSXzBRU1p0SmlmUE0yVEE#gid=0 test_case_VK]
+  # fifteenth Homework:
+    * [https://docs.google.com/open?id=0B6Aa3tpZrxEidHhleldlSG1uam8 autotests_v0.5_alfa]
