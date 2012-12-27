@@ -67,5 +67,7 @@
    # *Homework #15(?) (from 5.11.12):*
       * [https://drive.google.com/?tab=wo&authuser=0#folders/0B7_38nKFySGoRmc3YThJa3p1eU0 AutoTest2]
    # *Homework #16(?) (from 7.11.12):*
+      * [http://code.google.com/p/qa-school-project/wiki/HomeWork16 Task]
       * [https://docs.google.com/spreadsheet/ccc?key=0ArOs58O1S_A2dHI3SmF4Y2NQQ2hXc1pRanhDWUxMQmc&pli=1#gid=0 Test cases (Twitter, Team #2)]
+      * [https://drive.google.com/?tab=wo&authuser=0#folders/0B7_38nKFySGoZFl5VnRfUUp4WDg Auto tests (Twitter, Team #2)]
 ----
