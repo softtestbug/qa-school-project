@@ -1,0 +1,41 @@
+#SoapUI homework
+
+# Задание #
+
+  1. Изучить WSDL-схему сервиса (какого именно - об этом ниже). Кратко описать функционал сервиса, а также список входных и выходных параметров в текстовом виде (на русском). Звучать это будет примерно так:
+
+"Сервис CoolCats позволяет искать клёвых котиков в интернете. Сервис реализует один метод, FindCoolCats, на вход которого подаются следующие параметры:
+  * Строковый параметр amountOfCats, указывает количество котиков на картинке
+  * Строковый тип Mimiamount, указывающий степень мимимишности котега.
+Выходым параметром является единственное строковое значение, указывающее на картинку с котиком в интернете (ссылка).
+
+> 2. Описать тесткейсы для проверки с помощью SoapUI в текстовом виде. Описание должно быть общим и кратким, например
+
+  * Попробовать отправить в качестве значения amountOfCats отрицательное число, слово, пустое значение, не оправлять параметр вообще.
+  * Из описания Mimiamount неясно каким образом значения Mimiamount влияют на мимимишность котиков, поэтому можно посылать серверу числа -1000, -1, 0, 1, 1000, буквы, слова "ugly", "nice", "beautiful", диакритические знаки, старинные русские проклятия, и наблюдать за ответами сервера." (Вот тут вы возрадуетесь, что у вас хорошие и понятные веб-сервисы с чётким типизированным поведением, а не котиками).
+
+> 3. Протестировать функционал сервиса - минимум 5 тестов, в каждом тестовом шаге минимум 3 проверки. За плохие проверки, которые ничего не проверяют, буду снижать балл (**прим. - ниже 0 итоговый балл быть не может**). Если хотите получить пятёрку - позитивную валидацию ответов нужно делать через X-Path(бу-га-га), а то судя по всем у вас с этой темой проблемы. Готовый проект сохранить в гугл.драйв и расшарить мне и Ирине.
+
+А теперь самое вкусное - так как у нас демократия, давайте-ка вы сами разберёте себе сервисы по вкусу из таблички ниже, только не забудьте вписать туда свою фамилию, чтобы другие не забрали себе ваш замечательный сервис.
+
+Также, в табличку нужно ввести ссылки на ваш документ с описанием, и на сам проект SoapUI (как это сделано у Алексея). Графу "Оценка" я заполню сам.
+
+
+# Ссылки на сервисы #
+| Название сервиса | Адрес WSDL-схемы | Фамилия | Ссылки | Оценка |
+|:-----------------|:-----------------|:--------|:-------|:-------|
+| Acceleration Unit Convertor | http://www.webservicex.net/ConvertAcceleration.asmx?WSDL | Качурин | [Описание](https://docs.google.com/document/d/1al7xO-hdVe3U6k7gAxkQ-tKywSQXUpzO7Kyb1TX382g/edit), [проект](https://docs.google.com/open?id=0B2kPAy64UF-rYWNlcUFEc1hFblE)| 5      |
+| Pressure Unit Convertor | http://www.webservicex.net/CovertPressure.asmx?WSDL |  Пайдыганов| [Описание](https://docs.google.com/open?id=0B6Aa3tpZrxEiT1FjNWF4bGN4bWs), [проект](https://docs.google.com/open?id=0B6Aa3tpZrxEieExFajktdUU2LXM)| 5      |
+| Density Unit Convertor | http://www.webservicex.net/ConvertDensity.asmx?WSDL | Никиян  | [Описание](https://docs.google.com/document/d/1C5g2HCXABBuLQDU9AFjSapy32lsunbYdNFKGHf3Nz0E/edit), [проект](https://docs.google.com/file/d/0B0ZafnPjXYbMMjA3aERJdFhrdjg/edit)| 5 + 5  |
+| Power Unit Convertor | http://www.webservicex.net/ConverPower.asmx?WSDL | Бутакова  |[Описание](https://docs.google.com/document/d/1OsEjGhndUhLr5ZJfTMUMzsLwZunclKKtlOopBo7sgoo/edit),[Проект](https://docs.google.com/file/d/0B6bgRFE9FqEcQlM1S0xOMVJyUkk/edit) | 4      |
+| Angles Unit Convertor | http://www.webservicex.net/ConvertAngle.asmx?WSDL | Семенихина | [Описание](https://docs.google.com/document/d/1DiIWQQSf86mV3GNTvU3nOtUAiwWbJPu2wlX9ct3KOGk/edit), [Проект](https://docs.google.com/file/d/0B7Os58O1S_A2SElMd3R0d1EtSDA/edit) | 5 + 5  |
+| Torque Unit Convertor | http://www.webservicex.net/ConvertTorque.asmx?WSDL | Калашникова | [Описание](https://docs.google.com/document/d/1dA6Tb4Utj5ZZxZ5ANOOE3ItFQJpnLi_MtYmCBMjEuvY/edit), [Проект](https://docs.google.com/folder/d/0BzbC8pctEhzkSWZOb0k0bkRPekU/edit?docId=0BzbC8pctEhzkd2Jwb2RKR1NMVWs) | 4      |
+| Metric Weight Unit Convertor | http://www.webservicex.net/convertMetricWeight.asmx?WSDL | Ненастьева | [Описание](https://docs.google.com/document/d/1-NQ6yCyZVwxL1AeusHYuBU8q-lZOIetwWpqezsVH2hE/edit), [Проект](https://docs.google.com/file/d/0B4ZZpmgP2mDvWWRwYVJxUUlaaVU/edit) | не сдала |
+| Volume Unit Convertor | http://www.webservicex.net/convertVolume.asmx?WSDL | Половнев |[Описание](https://docs.google.com/document/d/16jcb6FPoBUD6UpkBpEzyu8vj64OHfpzhoAuDanpoVbs/edit), [проект](http://files.mail.ru/XHM98I) | 4      |
+| Temperature Unit Convertor | http://www.webservicex.net/ConvertTemperature.asmx?WSDL | Комарченко | [описание](https://docs.google.com/document/d/1ii5wWHYRqXMmgCH5xrv6A6JNcnahZN7CoKUOli3rDUE/edit), [проект](https://docs.google.com/file/d/0B7_38nKFySGoeWw3aWZpV0FKWXM/edit) | 5 + 5  |
+| Frequency Unit Convertor | http://www.webservicex.net/convertFrequency.asmx?WSDL |Мартыненко |[Описание](https://docs.google.com/document/d/1pAe-6kXhlvN_6T8H7rhLmRDJiGrd2awxUcwxrEQWfhY/edit) [Проект](https://docs.google.com/file/d/0BxQiTg2aXmW7dGU4Tm01VWU4UHc/edit) | 4      |
+| Astronomical Unit Convertor | http://www.webservicex.net/Astronomical.asmx?WSDL | Быканова |[Описание](https://docs.google.com/document/d/11c3EzDvQHenBy-OtwoDbNrVHbU2z3JQ6Yacu26AHGAo/edit) [Проект](https://docs.google.com/open?id=0B7gLPg3ScC_iMGtaN280cEM5SWs) | 4      |
+| Force Unit Convertor | http://www.webservicex.net/ConvertForec.asmx?WSDL |Мазина   |        | не сдала |
+
+# Дэдлайн #
+Задание надо сделать до 18 часов 4 декабря 2012 года (тамйзона GMT +4). Еще раз: до 04.12.2012 18:00 по грегорианскому календарю.

@@ -1,0 +1,25 @@
+**[Lucky number. Test cases (homework 2)](https://docs.google.com/spreadsheet/ccc?key=0AlTkU0p2XG0OdFBhSVNqQ2JpQlg4TnlsNktCNGY2bUE#gid=0)**
+
+
+**[Lucky number. Bug report (homework 2)](https://docs.google.com/spreadsheet/ccc?key=0AlTkU0p2XG0OdFFJenU2SG55dlhSd3pIMlkwRFBacVE#gid=0)**
+
+
+**[Greeting cards. Test cases (homework 3)](https://docs.google.com/spreadsheet/ccc?key=0AlTkU0p2XG0OdFJVUWVKQV9YNGk4MHRjZUU4NkxKNkE#gid=0)**
+
+
+**[Group2. Greeting cards. Bug report (homework 3)](https://docs.google.com/spreadsheet/ccc?key=0ArOs58O1S_A2dFNhbmw0T1VZckJoMGU4dlFCTDkyUWc#gid=0)**
+
+
+**[Questions to the customer (Greeting cards)](https://docs.google.com/document/d/1ptIWu26TZ9E9zS-p_j5iWeQC9M6Gs-tkmHiIniYzosA/edit)**
+
+**[MySQL (homework5)](https://docs.google.com/folder/d/0B0ZafnPjXYbMb2ZZd0xEb0J0VUE/edit?docId=1OQL3HqcfgT3tORzfzteB9_pr5a9sqBLUBJ3l8dsDKjY)**
+
+**[Postcard. Grey box. Tets cases (homework 6)](https://docs.google.com/spreadsheet/ccc?key=0AlTkU0p2XG0OdFJVUWVKQV9YNGk4MHRjZUU4NkxKNkE#gid=1)**
+
+**[Postcard. Grey box. Bug report (homework 6)](https://docs.google.com/spreadsheet/ccc?key=0AlTkU0p2XG0OdFpEeGpXcmdfMnBVQUVaZ1FydUp5ekE#gid=0)**
+
+---
+
+
+
+![http://vesna.vs.users.photofile.ru/photo/vesna.vs/151181896/xlarge/176065381.jpg](http://vesna.vs.users.photofile.ru/photo/vesna.vs/151181896/xlarge/176065381.jpg)
